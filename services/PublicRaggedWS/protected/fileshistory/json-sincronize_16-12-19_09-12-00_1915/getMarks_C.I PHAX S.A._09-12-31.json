@@ -1,0 +1,32 @@
+[
+  {
+    "DataAreaId": "rgd",
+    "Num": "100",
+    "Description": "RAGGED",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "rgd",
+    "Num": "105",
+    "Description": "RAGSTYLE",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "rgd",
+    "Num": "110",
+    "Description": "FORMETOO",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "rgd",
+    "Num": "115",
+    "Description": "R-PETITE",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "rgd",
+    "Num": "120",
+    "Description": "RGD",
+    "DimensionCode": "Centro de coste"
+  }
+]

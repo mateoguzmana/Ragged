@@ -1,0 +1,112 @@
+[
+  {
+    "DataAreaId": "1",
+    "SectorId": "11",
+    "SectorName": "CAMISA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "12",
+    "SectorName": "CAMISETA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "13",
+    "SectorName": "CHAQUETA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "14",
+    "SectorName": "GABAN"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "15",
+    "SectorName": "CHALECO"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "16",
+    "SectorName": "CARDIGAN"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "17",
+    "SectorName": "DELANTAL"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "31",
+    "SectorName": "PANTALON"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "32",
+    "SectorName": "FALDA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "33",
+    "SectorName": "CAPRI"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "34",
+    "SectorName": "SHORT"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "35",
+    "SectorName": "JEAN"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "36",
+    "SectorName": "TANGA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "37",
+    "SectorName": "LEGGIN"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "51",
+    "SectorName": "VESTIDO"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "52",
+    "SectorName": "CONJUNTO"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "53",
+    "SectorName": "ENTERIZO"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "91",
+    "SectorName": "CROPPED"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "92",
+    "SectorName": "PAREO"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "93",
+    "SectorName": "INTERIOR"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "94",
+    "SectorName": "PIJAMA"
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "95",
+    "SectorName": "ROMPER"
+  }
+]

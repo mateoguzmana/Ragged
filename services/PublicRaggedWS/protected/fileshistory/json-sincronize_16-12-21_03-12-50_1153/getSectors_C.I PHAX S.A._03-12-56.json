@@ -1,0 +1,162 @@
+[
+  {
+    "DataAreaId": "2",
+    "SectorId": "11",
+    "SectorName": "BIKINI TRIANGULO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "12",
+    "SectorName": "BIKINI STRAPLESS"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "13",
+    "SectorName": "BIKINI HALTER"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "14",
+    "SectorName": "BIKINI SEMIHALTER"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "15",
+    "SectorName": "BIKINI TANKINI"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "16",
+    "SectorName": "ENTERO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "17",
+    "SectorName": "TRIKINI"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "31",
+    "SectorName": "PANTY ENCARTERADO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "32",
+    "SectorName": "PANTY MONOS"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "33",
+    "SectorName": "PANTY TUNEL"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "34",
+    "SectorName": "PANTY FAJON"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "35",
+    "SectorName": "PANTY COMPLETO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "36",
+    "SectorName": "PANTY TIRITAS"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "51",
+    "SectorName": "TOP TRIANGULO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "52",
+    "SectorName": "TOP STRAPLESS"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "53",
+    "SectorName": "TOP HALTER"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "54",
+    "SectorName": "TOP SEMIHALTER"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "55",
+    "SectorName": "TOP TANKINI"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "61",
+    "SectorName": "CAMISA"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "62",
+    "SectorName": "CAMISETA"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "63",
+    "SectorName": "CARDIGAN"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "71",
+    "SectorName": "PANTALON"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "72",
+    "SectorName": "FALDA"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "73",
+    "SectorName": "CROPPED"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "74",
+    "SectorName": "SHORT"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "75",
+    "SectorName": "PAREO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "76",
+    "SectorName": "INTERIOR"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "77",
+    "SectorName": "LEGGIN"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "81",
+    "SectorName": "VESTIDO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "82",
+    "SectorName": "CONJUNTO"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "83",
+    "SectorName": "PIJAMA"
+  },
+  {
+    "DataAreaId": "2",
+    "SectorId": "84",
+    "SectorName": "ROMPER"
+  }
+]

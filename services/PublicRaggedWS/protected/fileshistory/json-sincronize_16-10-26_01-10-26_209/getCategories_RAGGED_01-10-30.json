@@ -1,0 +1,197 @@
+[
+  {
+    "DataAreaId": "1",
+    "StructureID": "AC",
+    "Name": "ACCESORIOS COMERCIALIZADOS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "AF",
+    "Name": "ACCESORIOS FABRICADOS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "AN",
+    "Name": "ACCESORIOS FABRICADOS SIN TALLA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "AS",
+    "Name": "ACCESORIOS COMERCIALIZADOS SIN TALLA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "BF",
+    "Name": "PRENDAS BANO FABRICADO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CA",
+    "Name": "CONSUMIBLES ASEO Y CAFETERIA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CE",
+    "Name": "CONSUMIBLES EMPAQUE"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CF",
+    "Name": "CONFIGURACION PANTY"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CL",
+    "Name": "COLOR"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CO",
+    "Name": "CONSUMIBLES PAPELERIA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CP",
+    "Name": "CONSUMIBLES PRODUCCION"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CS",
+    "Name": "SERVICIO DE CORTE DE SESGOS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "CX",
+    "Name": "SERVICIO DE CORTE EXTERNO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "HC",
+    "Name": "HILAZAS CRUDAS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "HP",
+    "Name": "HILAZAS PRETENIDAS (NO EMPLEAR)"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "HT",
+    "Name": "HILAZAS PRETENIDAS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IC",
+    "Name": "INSUMOS CRUDOS MEDIDA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IE",
+    "Name": "INSUMOS SIN DIMENSIONES"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IH",
+    "Name": "INSUMOS HILOS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IK",
+    "Name": "INSUMOS COLOR SIN MEDIDA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IN",
+    "Name": "INSUMOS TAMANO COLOR"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IS",
+    "Name": "INSUMO CON TALLA Y SIN COLOR"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "IT",
+    "Name": "INSUMO CON TALLA Y CON COLOR"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "MD",
+    "Name": "MEDIDA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "PC",
+    "Name": "TELA TEJIDO PLANO CRUDO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "PF",
+    "Name": "PRENDAS FABRICADAS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "PO",
+    "Name": "PRENDAS COMERCIALIZADAS"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "PT",
+    "Name": "TELA TEJIDO PLANO TENIDO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SB",
+    "Name": "SERVICIO DE BORDADO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SC",
+    "Name": "SERVICIO DE CONFECCION"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SE",
+    "Name": "SERVICIO DE ESTAMPACION"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SF",
+    "Name": "SERVICIO DE FUSIONADO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SL",
+    "Name": "SERVICIO LAVANDERIA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SM",
+    "Name": "SERVICIO MANUALIDAD / TERMINACION"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SP",
+    "Name": "SERVICIO DE PLIZADO /  CRAQUELADO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "ST",
+    "Name": "SERVICIO DE TINTORERIA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "SX",
+    "Name": "SERVICIO DE TEJEDURIA"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "UC",
+    "Name": "TELA TEJIDO PUNTO CRUDO"
+  },
+  {
+    "DataAreaId": "1",
+    "StructureID": "UT",
+    "Name": "TELA TEJIDO PUNTO TENIDO"
+  }
+]

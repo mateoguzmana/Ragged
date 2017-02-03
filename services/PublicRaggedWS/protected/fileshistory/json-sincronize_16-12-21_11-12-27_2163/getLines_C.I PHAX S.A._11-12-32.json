@@ -1,0 +1,72 @@
+[
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "19",
+    "Description": "TEEN",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "11",
+    "Description": "PHAX",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "12",
+    "Description": "MARIA BONITA",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "13",
+    "Description": "SUN MIX",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "14",
+    "Description": "GIRLS",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "15",
+    "Description": "MARCA PROPIA",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "16",
+    "Description": "COLOR MIX",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "17",
+    "Description": "APROVECHAMIENTOS",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "18",
+    "Description": "DOTACION",
+    "IdState": null
+  },
+  {
+    "IdLine": null,
+    "DataAreaId": "2",
+    "BfpUsrpLinProdRagg": "20",
+    "Description": "SUMMER FOREVER",
+    "IdState": null
+  }
+]

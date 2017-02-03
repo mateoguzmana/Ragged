@@ -1,0 +1,282 @@
+[
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "AC",
+    "Name": "ACCESORIOS COMERCIALIZADOS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "AF",
+    "Name": "ACCESORIOS FABRICADOS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "AN",
+    "Name": "ACCESORIOS FABRICADOS SIN TALLA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "AS",
+    "Name": "ACCESORIOS COMERCIALIZADOS SIN TALLA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "BF",
+    "Name": "PRENDAS BANO FABRICADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "BO",
+    "Name": "PRENDAS BANO COMERCIALIZADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CA",
+    "Name": "CONSUMIBLES ASEO Y CAFETERIA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CE",
+    "Name": "CONSUMIBLES EMPAQUE",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CF",
+    "Name": "CONFIGURACION PANTY",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CL",
+    "Name": "COLOR",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CO",
+    "Name": "CONSUMIBLES PAPELERIA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "CP",
+    "Name": "CONSUMIBLES PRODUCCION",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "HC",
+    "Name": "HILAZAS CRUDAS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "HP",
+    "Name": "HILAZAS PRETENIDAS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IC",
+    "Name": "INSUMOS CRUDOS MEDIDA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IE",
+    "Name": "INSUMOS SIN DIMENSIONES",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IH",
+    "Name": "INSUMOS HILOS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IK",
+    "Name": "INSUMOS COLOR SIN MEDIDA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IN",
+    "Name": "INSUMOS TAMANO COLOR",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IS",
+    "Name": "INSUMO CON TALLA Y SIN COLOR",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "IT",
+    "Name": "INSUMO CON TALLA Y CON COLOR",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "MD",
+    "Name": "MEDIDA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "PC",
+    "Name": "TELA TEJIDO PLANO CRUDO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "PF",
+    "Name": "PRENDAS FABRICADAS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "PO",
+    "Name": "PRENDAS COMERCIALIZADAS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "PT",
+    "Name": "TELA TEJIDO PLANO TENIDO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SB",
+    "Name": "SERVICIO DE BORDADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SC",
+    "Name": "SERVICIO DE CONFECCION",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SE",
+    "Name": "SERVICIO DE ESTAMPACION",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SF",
+    "Name": "SERVICIO DE FUSIONADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SH",
+    "Name": "SERVICIO DE CROCHETA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SI",
+    "Name": "SERVICIO TENIDO Y ESTAMPADO MATERIAS PRIMAS",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SL",
+    "Name": "SERVICIO DE LAVANDERIA",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SM",
+    "Name": "SERVICIO MANUALIDAD",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SQ",
+    "Name": "SERVICIO DE REMARQUILLADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SR",
+    "Name": "SERVICIO DE RESORTADO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "ST",
+    "Name": "SERVICIO DE TERMINACION",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "SX",
+    "Name": "SERVICIO DE CORTE EXTERNO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "UC",
+    "Name": "TELA TEJIDO PUNTO CRUDO",
+    "IdState": null
+  },
+  {
+    "IdCategory": null,
+    "DataAreaid": "2",
+    "StructureId": "UT",
+    "Name": "TELA TEJIDO PUNTO TENIDO",
+    "IdState": null
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PRODUC"
+  },
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCSTOC"
+  }
+]

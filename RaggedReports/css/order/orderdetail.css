@@ -1,0 +1,24 @@
+    .collapsing 
+    {
+        -webkit-transition: none;
+        transition: none;
+    }
+    
+    .modal-backdrop 
+    {
+        display:none;
+    }    
+    
+    .newTable{
+        outline: groove #EFEFEF;
+        margin-left : 2px;
+        margin-right: 2px;
+    }  
+    
+    tr.total td {
+        border-top:5pt solid black !important;
+    }
+    
+    #orderDetailModal {
+    overflow-y:scroll;
+    }

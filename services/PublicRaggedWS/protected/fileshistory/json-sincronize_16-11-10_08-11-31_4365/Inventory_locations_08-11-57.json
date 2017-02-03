@@ -1,0 +1,57 @@
+[
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PRODUC"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCSTOC"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTSEGU"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCLFBA"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTMUCO"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTARRE"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTRGST"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTREPR"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-VRJFFC"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-VRSAJV"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-VREASR"
+  }
+]

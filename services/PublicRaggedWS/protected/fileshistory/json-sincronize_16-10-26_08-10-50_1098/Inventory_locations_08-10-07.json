@@ -1,0 +1,27 @@
+[
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PRODUC"
+  },
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCSTOC"
+  },
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTSEGU"
+  },
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCLFBA"
+  },
+  {
+    "LocationId": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTMUCO"
+  }
+]

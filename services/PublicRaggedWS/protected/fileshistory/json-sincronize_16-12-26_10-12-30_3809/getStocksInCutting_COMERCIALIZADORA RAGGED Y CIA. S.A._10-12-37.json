@@ -1,0 +1,44 @@
+[
+  {
+    "DataAreaId": "1",
+    "IdPlus": "5726",
+    "LocationId": "8",
+    "Quantity": "40",
+    "Period": "0001-01-01",
+    "StartDate": "2016-12-26",
+    "StartHour": "10:40:35",
+    "FromOprNum": "40",
+    "Status": "Iniciado",
+    "TransDate": "2016-12-26",
+    "TypeInventory": "1",
+    "IdStock": "3"
+  },
+  {
+    "DataAreaId": "1",
+    "IdPlus": "5725",
+    "LocationId": "8",
+    "Quantity": "40",
+    "Period": "0001-01-01",
+    "StartDate": "2016-12-26",
+    "StartHour": "10:40:35",
+    "FromOprNum": "40",
+    "Status": "Iniciado",
+    "TransDate": "2016-12-26",
+    "TypeInventory": "1",
+    "IdStock": "2"
+  },
+  {
+    "DataAreaId": "1",
+    "IdPlus": "5724",
+    "LocationId": "8",
+    "Quantity": "20",
+    "Period": "0001-01-01",
+    "StartDate": "2016-12-26",
+    "StartHour": "10:40:35",
+    "FromOprNum": "40",
+    "Status": "Iniciado",
+    "TransDate": "2016-12-26",
+    "TypeInventory": "1",
+    "IdStock": "1"
+  }
+]

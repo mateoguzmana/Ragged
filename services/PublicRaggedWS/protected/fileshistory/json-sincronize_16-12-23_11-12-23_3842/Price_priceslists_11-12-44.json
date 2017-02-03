@@ -1,0 +1,110 @@
+[
+  {
+    "IdCompany": "1",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR3-RSLIST",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "P10-CODIGO",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "N/R",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR18-PHRAG",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "P12-OBSEQU",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR3-PHXFAB",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR5-DIVDOL",
+    "IdCurrency": "3"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR6-EURO",
+    "IdCurrency": "6"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR20-EURSA",
+    "IdCurrency": "6"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR21-EURUN",
+    "IdCurrency": "6"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR23-LIB",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR16-FAB30",
+    "IdCurrency": "6"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR17-FAB50",
+    "IdCurrency": "6"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR14-USD50",
+    "IdCurrency": "3"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR19-EVENT",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR22-FONDO",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR26-PINAC",
+    "IdCurrency": "3"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR2-PROMOC",
+    "IdCurrency": "1"
+  }
+]

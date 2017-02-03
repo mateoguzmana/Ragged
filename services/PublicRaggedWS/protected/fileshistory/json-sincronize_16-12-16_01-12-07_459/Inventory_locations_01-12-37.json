@@ -1,0 +1,77 @@
+[
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTMUCO"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCSTOC"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-MCLFBA"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTARRE"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTSEGU"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PTVISU"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "1",
+    "DescriptionLocation": "ALM-PRODUC"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-PTPHAX"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONRGD"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONCVI"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-DISEN"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONRFU"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONLAD"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONBZM"
+  },
+  {
+    "IdLocation": null,
+    "DataAreaId": "2",
+    "DescriptionLocation": "ALM-CONKBR"
+  }
+]

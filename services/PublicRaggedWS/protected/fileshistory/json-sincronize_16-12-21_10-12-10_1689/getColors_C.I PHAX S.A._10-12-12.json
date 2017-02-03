@@ -1,0 +1,3187 @@
+[
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "000",
+    "ColorName": "CALIDAD TIPO B",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "004",
+    "ColorName": "TROPICAL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "006",
+    "ColorName": "GRIS JASPE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "007",
+    "ColorName": "GRIS JASPE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "008",
+    "ColorName": "GRIS JASPE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "009",
+    "ColorName": "GRIS JASPE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "010",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "011",
+    "ColorName": "NEGRO S",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "012",
+    "ColorName": "NEGRO M",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "013",
+    "ColorName": "NEGRO L",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "014",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "015",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "016",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "017",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "018",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "019",
+    "ColorName": "CARBON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "020",
+    "ColorName": "GRIS PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "021",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "022",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "023",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "024",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "025",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "026",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "027",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "028",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "029",
+    "ColorName": "GRIS OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "030",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "031",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "032",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "033",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "034",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "035",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "036",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "037",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "038",
+    "ColorName": "GRIS MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "039",
+    "ColorName": "TAUPE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "040",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "041",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "042",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "043",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "044",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "045",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "046",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "047",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "048",
+    "ColorName": "PLATEADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "049",
+    "ColorName": "PLOMO PLATA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "050",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "051",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "052",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "053",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "054",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "055",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "056",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "057",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "058",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "059",
+    "ColorName": "GRIS PASTEL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "100",
+    "ColorName": "BLANCO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "101",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "102",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "103",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "104",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "105",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "106",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "107",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "108",
+    "ColorName": "NATURAL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "109",
+    "ColorName": "BLANCO CRUDO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "200",
+    "ColorName": "CAFE PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "201",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "202",
+    "ColorName": "CAFE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "203",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "204",
+    "ColorName": "CF CHOCOLATE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "205",
+    "ColorName": "CAFE MOCA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "206",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "207",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "208",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "209",
+    "ColorName": "CAFE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "210",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "211",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "212",
+    "ColorName": "CARAMELO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "213",
+    "ColorName": "ARENA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "214",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "215",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "216",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "217",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "218",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "219",
+    "ColorName": "CAFE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "220",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "221",
+    "ColorName": "PAVON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "222",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "223",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "224",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "225",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "226",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "227",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "228",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "229",
+    "ColorName": "COBRE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "230",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "231",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "232",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "233",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "234",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "235",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "236",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "237",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "238",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "239",
+    "ColorName": "CAFE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "250",
+    "ColorName": "BEIGE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "251",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "252",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "253",
+    "ColorName": "MARFIL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "254",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "255",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "256",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "257",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "258",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "259",
+    "ColorName": "BEIGE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "260",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "261",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "262",
+    "ColorName": "CAQUI",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "263",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "264",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "265",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "266",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "267",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "268",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "269",
+    "ColorName": "BEIGE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "270",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "271",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "272",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "273",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "274",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "275",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "276",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "277",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "278",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "279",
+    "ColorName": "BEIGE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "300",
+    "ColorName": "VERDE PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "301",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "302",
+    "ColorName": "VERDE PATO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "303",
+    "ColorName": "VERDE MILITAR",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "304",
+    "ColorName": "VERDE ESMERALDA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "305",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "306",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "307",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "308",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "309",
+    "ColorName": "VERDE OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "310",
+    "ColorName": "VERDE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "311",
+    "ColorName": "VERDE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "312",
+    "ColorName": "VERDE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "313",
+    "ColorName": "VERDE LIMON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "314",
+    "ColorName": "VERDE JADE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "315",
+    "ColorName": "VERDE NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "316",
+    "ColorName": "VERDE MENTA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "317",
+    "ColorName": "VERDE OLIVO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "318",
+    "ColorName": "VERDE MANZANA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "319",
+    "ColorName": "VERDE MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "320",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "321",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "322",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "323",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "324",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "325",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "326",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "327",
+    "ColorName": "VERDE BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "328",
+    "ColorName": "VERDE ANTIOQUIA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "329",
+    "ColorName": "ETNICO JADE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "330",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "331",
+    "ColorName": "VERDE AQUA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "332",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "333",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "334",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "335",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "336",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "337",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "338",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "339",
+    "ColorName": "VERDE CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "400",
+    "ColorName": "AZUL PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "401",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "402",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "403",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "404",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "405",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "406",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "407",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "408",
+    "ColorName": "AZUL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "409",
+    "ColorName": "AZUL PETROLEO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "410",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "411",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "412",
+    "ColorName": "AZUL ELECTRICO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "413",
+    "ColorName": "AZUL CELESTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "414",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "415",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "416",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "417",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "418",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "419",
+    "ColorName": "AZUL MARINO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "420",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "421",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "422",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "423",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "424",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "425",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "426",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "427",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "428",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "429",
+    "ColorName": "AZUL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "430",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "431",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "432",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "433",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "434",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "435",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "436",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "437",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "438",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "439",
+    "ColorName": "AZUL BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "440",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "441",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "442",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "443",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "444",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "445",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "446",
+    "ColorName": "AZUL NAVY",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "447",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "448",
+    "ColorName": "AZUL TURQUESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "449",
+    "ColorName": "AZUL ORTENSIA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "450",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "451",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "452",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "453",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "454",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "455",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "456",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "457",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "458",
+    "ColorName": "AZUL CIELO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "459",
+    "ColorName": "AZUL CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "500",
+    "ColorName": "MORADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "501",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "502",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "503",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "504",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "505",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "506",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "507",
+    "ColorName": "VINO TINTO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "508",
+    "ColorName": "MORA AZUL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "509",
+    "ColorName": "MORADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "510",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "511",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "512",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "513",
+    "ColorName": "MAGENTA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "514",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "515",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "516",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "517",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "518",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "519",
+    "ColorName": "MORADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "520",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "521",
+    "ColorName": "LAVANDA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "522",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "523",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "524",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "525",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "526",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "527",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "528",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "529",
+    "ColorName": "MORADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "530",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "531",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "532",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "533",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "534",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "535",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "536",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "537",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "538",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "539",
+    "ColorName": "MORADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "600",
+    "ColorName": "ROJO PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "601",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "602",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "603",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "604",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "605",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "606",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "607",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "608",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "609",
+    "ColorName": "ROJO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "610",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "611",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "612",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "613",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "614",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "615",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "616",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "617",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "618",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "619",
+    "ColorName": "ROJO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "620",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "621",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "622",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "623",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "624",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "625",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "626",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "627",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "628",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "629",
+    "ColorName": "ROJO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "630",
+    "ColorName": "SALMON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "631",
+    "ColorName": "SALMON MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "632",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "633",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "634",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "635",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "636",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "637",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "638",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "639",
+    "ColorName": "ROJO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "650",
+    "ColorName": "ROSADO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "651",
+    "ColorName": "ROSADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "652",
+    "ColorName": "ROSADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "653",
+    "ColorName": "ROSADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "654",
+    "ColorName": "ROSADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "655",
+    "ColorName": "ROSA SPARK",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "656",
+    "ColorName": "ROSA NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "657",
+    "ColorName": "FRESA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "658",
+    "ColorName": "ROSADO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "659",
+    "ColorName": "ROSA VIEJO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "660",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "661",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "662",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "663",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "664",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "665",
+    "ColorName": "ROSADO MORA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "666",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "667",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "668",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "669",
+    "ColorName": "ROSADO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "670",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "671",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "672",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "673",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "674",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "675",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "676",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "677",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "678",
+    "ColorName": "ROSADO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "679",
+    "ColorName": "RAYAS FUCS",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "680",
+    "ColorName": "ROSADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "681",
+    "ColorName": "ROSADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "682",
+    "ColorName": "PALO DE ROSA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "683",
+    "ColorName": "ROSADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "684",
+    "ColorName": "ROSADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "685",
+    "ColorName": "ROSADO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "686",
+    "ColorName": "CORAL NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "687",
+    "ColorName": "CORAL OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "688",
+    "ColorName": "CORAL MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "689",
+    "ColorName": "MELOCOTON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "690",
+    "ColorName": "CORAL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "699",
+    "ColorName": "FUCSIA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "700",
+    "ColorName": "AMARILLO PURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "701",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "702",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "703",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "704",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "705",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "706",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "707",
+    "ColorName": "AMARILLO OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "708",
+    "ColorName": "AMARILLO STATE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "709",
+    "ColorName": "AMARILLO NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "710",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "711",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "712",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "713",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "714",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "715",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "716",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "717",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "718",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "719",
+    "ColorName": "ORO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "720",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "721",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "722",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "723",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "724",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "725",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "726",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "727",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "728",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "729",
+    "ColorName": "AMARILLO MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "730",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "731",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "732",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "733",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "734",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "735",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "736",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "737",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "738",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "739",
+    "ColorName": "AMARILLO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "740",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "741",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "742",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "743",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "744",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "745",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "746",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "747",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "748",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "749",
+    "ColorName": "AMARILLO CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "750",
+    "ColorName": "BRONCE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "800",
+    "ColorName": "NARANJA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "801",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "802",
+    "ColorName": "TERRACOTA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "803",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "804",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "805",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "806",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "807",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "808",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "809",
+    "ColorName": "NARANJA OSCURO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "810",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "811",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "812",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "813",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "814",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "815",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "816",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "817",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "818",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "819",
+    "ColorName": "NARANJA MEDIO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "820",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "821",
+    "ColorName": "NARANJA NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "822",
+    "ColorName": "NARANJA NEON DINASTY",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "823",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "824",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "825",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "826",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "827",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "828",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "829",
+    "ColorName": "NARANJA BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "830",
+    "ColorName": "NARANJA CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "831",
+    "ColorName": "NARANJA CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "832",
+    "ColorName": "NARANJA CLARO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "833",
+    "ColorName": "MANDARINA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "834",
+    "ColorName": "PRECIO ESPEC ALM",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "835",
+    "ColorName": "XL ROSA NEON",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "836",
+    "ColorName": "XL MORA AZUL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "837",
+    "ColorName": "XL NEGRO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "838",
+    "ColorName": "LIVERPOOL",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "839",
+    "ColorName": "INSERVIBLES",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "994",
+    "ColorName": "ESPECIAL OLGA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "995",
+    "ColorName": "ESPECIAL NUNO",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "996",
+    "ColorName": "ESPECIAL DEVELYN",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "997",
+    "ColorName": "NEGRO BRILLANTE",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "998",
+    "ColorName": "MUESTRA FISICA",
+    "IdState": null
+  },
+  {
+    "idColors": null,
+    "DataAreaid": "2",
+    "ColorId": "999",
+    "ColorName": "NO APLICA",
+    "IdState": null
+  }
+]

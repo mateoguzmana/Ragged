@@ -1,0 +1,44 @@
+[
+  {
+    "IdCompany": "1",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR3-RSLIST",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "P10-CODIGO",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "N/R",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR18-PHRAG",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "P12-OBSEQU",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR3-PHXFAB",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR5-DIVDOL",
+    "IdCurrency": "3"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "DataAreaId": "2",
+    "ItemId": "3",
+    "Referencecode": "10974",
+    "ItemBarcode": "7704787616296",
+    "InvoiceCode": "9261665",
+    "InventSizeId": "451",
+    "InventColorId": "567",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "3",
+    "Referencecode": "10974",
+    "ItemBarcode": "7704787966940",
+    "InvoiceCode": "9261665",
+    "InventSizeId": "451",
+    "InventColorId": "561",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "3",
+    "Referencecode": "10974",
+    "ItemBarcode": "7704787996053",
+    "InvoiceCode": "9261665",
+    "InventSizeId": "451",
+    "InventColorId": "109",
+    "ConfigId": ""
+  }
+]

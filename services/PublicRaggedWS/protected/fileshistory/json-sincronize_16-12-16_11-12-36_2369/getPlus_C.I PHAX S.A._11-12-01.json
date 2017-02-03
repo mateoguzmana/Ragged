@@ -1,0 +1,22 @@
+[
+  {
+    "DataAreaId": "2",
+    "ItemId": "2",
+    "Referencecode": "10956",
+    "ItemBarcode": "7704787512710",
+    "InvoiceCode": "9262274",
+    "InventSizeId": "451",
+    "InventColorId": "567",
+    "ConfigId": "L"
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "2",
+    "Referencecode": "10956",
+    "ItemBarcode": "7704787824578",
+    "InvoiceCode": "9262274",
+    "InventSizeId": "451",
+    "InventColorId": "567",
+    "ConfigId": "W"
+  }
+]

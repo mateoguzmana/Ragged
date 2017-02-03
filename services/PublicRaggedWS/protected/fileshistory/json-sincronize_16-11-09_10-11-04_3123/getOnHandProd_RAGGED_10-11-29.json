@@ -1,0 +1,24 @@
+[
+  {
+    "IdInventory": null,
+    "Quantity": "      1,00",
+    "TypeInventory": "1",
+    "IdPlus": "513",
+    "DataAreaId": "1",
+    "ItemId": null,
+    "ItemName": null,
+    "Pair1": null,
+    "Pair2": null,
+    "Pair3": null,
+    "SizeId": null,
+    "ColorId": null,
+    "ConfigId": null,
+    "LocationId": "3",
+    "PhysInvent": null,
+    "QtyCalc": null,
+    "Period": "2016/11/09",
+    "StartDate": "2016-11-09",
+    "StartHour": "10:09:29",
+    "TransDate": "0001-01-01"
+  }
+]

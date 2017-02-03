@@ -1,0 +1,40 @@
+[
+  {
+    "IdInventory": null,
+    "Quantity": "   30.00",
+    "TypeInventory": "1",
+    "IdStock": null,
+    "IdPlus": "72766",
+    "DataAreaId": "2",
+    "ItemId": null,
+    "InventSizeId": null,
+    "InventColorId": null,
+    "QtySched": null,
+    "FromOprNum": "40",
+    "Status": "Iniciado",
+    "TransDate": "2016/12/26",
+    "LocationId": "8",
+    "StartDate": "2016-12-26",
+    "StartHour": "15:09:36",
+    "Period": "0001-01-01"
+  },
+  {
+    "IdInventory": null,
+    "Quantity": "   30.00",
+    "TypeInventory": "1",
+    "IdStock": null,
+    "IdPlus": "72766",
+    "DataAreaId": "2",
+    "ItemId": null,
+    "InventSizeId": null,
+    "InventColorId": null,
+    "QtySched": null,
+    "FromOprNum": "40",
+    "Status": "Iniciado",
+    "TransDate": "2016/12/26",
+    "LocationId": "8",
+    "StartDate": "2016-12-26",
+    "StartHour": "15:09:36",
+    "Period": "0001-01-01"
+  }
+]

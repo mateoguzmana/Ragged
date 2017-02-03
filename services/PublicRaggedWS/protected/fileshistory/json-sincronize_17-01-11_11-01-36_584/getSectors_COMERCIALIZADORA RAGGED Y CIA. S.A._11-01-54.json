@@ -1,0 +1,134 @@
+[
+  {
+    "DataAreaId": "1",
+    "SectorId": "11",
+    "SectorName": "CAMISA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "12",
+    "SectorName": "CAMISETA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "13",
+    "SectorName": "CHAQUETA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "14",
+    "SectorName": "GABAN",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "15",
+    "SectorName": "CHALECO",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "16",
+    "SectorName": "CARDIGAN",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "17",
+    "SectorName": "DELANTAL",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "31",
+    "SectorName": "PANTALON",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "32",
+    "SectorName": "FALDA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "33",
+    "SectorName": "CAPRI",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "34",
+    "SectorName": "SHORT",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "35",
+    "SectorName": "JEAN",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "36",
+    "SectorName": "TANGA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "37",
+    "SectorName": "LEGGIN",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "51",
+    "SectorName": "VESTIDO",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "52",
+    "SectorName": "CONJUNTO",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "53",
+    "SectorName": "ENTERIZO",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "91",
+    "SectorName": "CROPPED",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "92",
+    "SectorName": "PAREO",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "93",
+    "SectorName": "INTERIOR",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "94",
+    "SectorName": "PIJAMA",
+    "IdState": null
+  },
+  {
+    "DataAreaId": "1",
+    "SectorId": "95",
+    "SectorName": "ROMPER",
+    "IdState": null
+  }
+]

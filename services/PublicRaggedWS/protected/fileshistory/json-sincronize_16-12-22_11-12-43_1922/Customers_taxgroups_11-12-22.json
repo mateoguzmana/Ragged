@@ -1,0 +1,62 @@
+[
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-GRAL"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-RCRETE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "PRO-GCRETE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-RCBACE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-GRAL"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CPR-EXENTO"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-RCRETE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-EXCNOR"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-RCBASE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-RCGC"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "CLI-GCICA"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "2",
+    "DescriptionTaxGroup": "Colombia"
+  }
+]

@@ -1,0 +1,2756 @@
+[
+  {
+    "DataAreaId": "2",
+    "ColorId": "000",
+    "ColorName": "CALIDAD TIPO B",
+    "CodigoColor": "000"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "",
+    "ColorName": "NEGRO",
+    "CodigoColor": "001"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "002",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "002"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "003",
+    "ColorName": "TRANSPARENTE",
+    "CodigoColor": "003"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "004",
+    "ColorName": "TROPICAL",
+    "CodigoColor": "004"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "005",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "005"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "006",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "006"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "007",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "007"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "008",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "008"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "009",
+    "ColorName": "GRIS JASPE",
+    "CodigoColor": "009"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "010",
+    "ColorName": "CARBON",
+    "CodigoColor": "010"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "011",
+    "ColorName": "NEGRO S",
+    "CodigoColor": "011"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "012",
+    "ColorName": "NEGRO M",
+    "CodigoColor": "012"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "013",
+    "ColorName": "NEGRO L",
+    "CodigoColor": "013"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "014",
+    "ColorName": "CARBON",
+    "CodigoColor": "014"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "015",
+    "ColorName": "CARBON",
+    "CodigoColor": "015"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "016",
+    "ColorName": "CARBON",
+    "CodigoColor": "016"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "017",
+    "ColorName": "CARBON",
+    "CodigoColor": "017"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "018",
+    "ColorName": "CARBON",
+    "CodigoColor": "018"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "019",
+    "ColorName": "CARBON",
+    "CodigoColor": "019"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "020",
+    "ColorName": "GRIS PURO",
+    "CodigoColor": "020"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "021",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "021"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "022",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "022"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "023",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "023"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "024",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "024"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "025",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "025"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "026",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "026"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "027",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "027"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "028",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "028"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "029",
+    "ColorName": "GRIS OSCURO",
+    "CodigoColor": "029"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "030",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "030"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "031",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "031"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "032",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "032"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "033",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "033"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "034",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "034"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "035",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "035"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "036",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "036"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "037",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "037"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "038",
+    "ColorName": "GRIS MEDIO",
+    "CodigoColor": "038"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "039",
+    "ColorName": "TAUPE",
+    "CodigoColor": "039"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "040",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "040"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "041",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "041"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "042",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "042"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "043",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "043"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "044",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "044"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "045",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "045"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "046",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "046"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "047",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "047"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "048",
+    "ColorName": "PLATEADO",
+    "CodigoColor": "048"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "049",
+    "ColorName": "PLOMO PLATA",
+    "CodigoColor": "049"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "050",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "050"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "051",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "051"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "052",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "052"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "053",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "053"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "054",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "054"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "055",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "055"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "056",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "056"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "057",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "057"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "058",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "058"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "059",
+    "ColorName": "GRIS PASTEL",
+    "CodigoColor": "059"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "100",
+    "ColorName": "BLANCO",
+    "CodigoColor": "100"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "101",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "101"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "102",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "102"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "103",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "103"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "104",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "104"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "105",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "105"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "106",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "106"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "107",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "107"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "108",
+    "ColorName": "NATURAL",
+    "CodigoColor": "108"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "109",
+    "ColorName": "BLANCO CRUDO",
+    "CodigoColor": "109"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "200",
+    "ColorName": "CAFE PURO",
+    "CodigoColor": "200"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "201",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "201"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "202",
+    "ColorName": "CAFE BRILLANTE",
+    "CodigoColor": "202"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "203",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "203"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "204",
+    "ColorName": "CF CHOCOLATE",
+    "CodigoColor": "204"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "205",
+    "ColorName": "CAFE MOCA",
+    "CodigoColor": "205"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "206",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "206"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "207",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "207"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "208",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "208"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "209",
+    "ColorName": "CAFE OSCURO",
+    "CodigoColor": "209"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "210",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "210"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "211",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "211"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "212",
+    "ColorName": "CARAMELO",
+    "CodigoColor": "212"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "213",
+    "ColorName": "ARENA",
+    "CodigoColor": "213"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "214",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "214"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "215",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "215"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "216",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "216"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "217",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "217"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "218",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "218"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "219",
+    "ColorName": "CAFE MEDIO",
+    "CodigoColor": "219"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "220",
+    "ColorName": "COBRE",
+    "CodigoColor": "220"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "221",
+    "ColorName": "PAVON",
+    "CodigoColor": "221"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "222",
+    "ColorName": "COBRE",
+    "CodigoColor": "222"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "223",
+    "ColorName": "COBRE",
+    "CodigoColor": "223"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "224",
+    "ColorName": "COBRE",
+    "CodigoColor": "224"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "225",
+    "ColorName": "COBRE",
+    "CodigoColor": "225"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "226",
+    "ColorName": "COBRE",
+    "CodigoColor": "226"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "227",
+    "ColorName": "COBRE",
+    "CodigoColor": "227"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "228",
+    "ColorName": "COBRE",
+    "CodigoColor": "228"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "229",
+    "ColorName": "COBRE",
+    "CodigoColor": "229"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "230",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "230"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "231",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "231"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "232",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "232"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "233",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "233"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "234",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "234"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "235",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "235"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "236",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "236"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "237",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "237"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "238",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "238"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "239",
+    "ColorName": "CAFE CLARO",
+    "CodigoColor": "239"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "250",
+    "ColorName": "BEIGE",
+    "CodigoColor": "250"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "251",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "251"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "252",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "252"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "253",
+    "ColorName": "MARFIL",
+    "CodigoColor": "253"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "254",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "254"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "255",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "255"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "256",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "256"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "257",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "257"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "258",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "258"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "259",
+    "ColorName": "BEIGE OSCURO",
+    "CodigoColor": "259"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "260",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "260"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "261",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "261"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "262",
+    "ColorName": "CAQUI",
+    "CodigoColor": "262"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "263",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "263"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "264",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "264"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "265",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "265"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "266",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "266"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "267",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "267"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "268",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "268"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "269",
+    "ColorName": "BEIGE MEDIO",
+    "CodigoColor": "269"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "270",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "270"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "271",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "271"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "272",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "272"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "273",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "273"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "274",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "274"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "275",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "275"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "276",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "276"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "277",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "277"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "278",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "278"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "279",
+    "ColorName": "BEIGE CLARO",
+    "CodigoColor": "279"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "300",
+    "ColorName": "VERDE PURO",
+    "CodigoColor": "300"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "301",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "301"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "302",
+    "ColorName": "VERDE PATO",
+    "CodigoColor": "302"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "303",
+    "ColorName": "VERDE MILITAR",
+    "CodigoColor": "303"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "304",
+    "ColorName": "VERDE ESMERALDA",
+    "CodigoColor": "304"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "305",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "305"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "306",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "306"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "307",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "307"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "308",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "308"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "309",
+    "ColorName": "VERDE OSCURO",
+    "CodigoColor": "309"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "310",
+    "ColorName": "VERDE MEDIO",
+    "CodigoColor": "310"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "311",
+    "ColorName": "VERDE MEDIO",
+    "CodigoColor": "311"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "312",
+    "ColorName": "VERDE MEDIO",
+    "CodigoColor": "312"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "313",
+    "ColorName": "VERDE LIMON",
+    "CodigoColor": "313"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "314",
+    "ColorName": "VERDE JADE",
+    "CodigoColor": "314"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "315",
+    "ColorName": "VERDE NEON",
+    "CodigoColor": "315"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "316",
+    "ColorName": "VERDE MENTA",
+    "CodigoColor": "316"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "317",
+    "ColorName": "VERDE OLIVO",
+    "CodigoColor": "317"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "318",
+    "ColorName": "VERDE MANZANA",
+    "CodigoColor": "318"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "319",
+    "ColorName": "VERDE MEDIO",
+    "CodigoColor": "319"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "320",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "320"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "321",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "321"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "322",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "322"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "323",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "323"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "324",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "324"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "325",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "325"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "326",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "326"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "327",
+    "ColorName": "VERDE BRILLANTE",
+    "CodigoColor": "327"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "328",
+    "ColorName": "VERDE ANTIOQUIA",
+    "CodigoColor": "328"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "329",
+    "ColorName": "ETNICO JADE",
+    "CodigoColor": "329"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "330",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "330"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "331",
+    "ColorName": "VERDE AQUA",
+    "CodigoColor": "331"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "332",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "332"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "333",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "333"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "334",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "334"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "335",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "335"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "336",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "336"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "337",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "337"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "338",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "338"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "339",
+    "ColorName": "VERDE CLARO",
+    "CodigoColor": "339"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "400",
+    "ColorName": "AZUL PURO",
+    "CodigoColor": "400"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "401",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "401"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "402",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "402"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "403",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "403"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "404",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "404"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "405",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "405"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "406",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "406"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "407",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "407"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "408",
+    "ColorName": "AZUL OSCURO",
+    "CodigoColor": "408"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "409",
+    "ColorName": "AZUL PETROLEO",
+    "CodigoColor": "409"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "410",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "410"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "411",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "411"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "412",
+    "ColorName": "AZUL ELECTRICO",
+    "CodigoColor": "412"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "413",
+    "ColorName": "AZUL CELESTE",
+    "CodigoColor": "413"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "414",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "414"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "415",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "415"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "416",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "416"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "417",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "417"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "418",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "418"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "419",
+    "ColorName": "AZUL MARINO",
+    "CodigoColor": "419"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "420",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "420"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "421",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "421"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "422",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "422"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "423",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "423"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "424",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "424"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "425",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "425"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "426",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "426"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "427",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "427"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "428",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "428"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "429",
+    "ColorName": "AZUL MEDIO",
+    "CodigoColor": "429"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "430",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "430"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "431",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "431"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "432",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "432"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "433",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "433"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "434",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "434"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "435",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "435"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "436",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "436"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "437",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "437"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "438",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "438"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "439",
+    "ColorName": "AZUL BRILLANTE",
+    "CodigoColor": "439"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "440",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "440"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "441",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "441"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "442",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "442"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "443",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "443"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "444",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "444"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "445",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "445"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "446",
+    "ColorName": "AZUL NAVY",
+    "CodigoColor": "446"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "447",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "447"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "448",
+    "ColorName": "AZUL TURQUESA",
+    "CodigoColor": "448"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "449",
+    "ColorName": "AZUL ORTENSIA",
+    "CodigoColor": "449"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "450",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "450"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "451",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "451"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "452",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "452"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "453",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "453"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "454",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "454"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "455",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "455"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "456",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "456"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "457",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "457"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "458",
+    "ColorName": "AZUL CIELO",
+    "CodigoColor": "458"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "459",
+    "ColorName": "AZUL CLARO",
+    "CodigoColor": "459"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "500",
+    "ColorName": "MORADO",
+    "CodigoColor": "500"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "501",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "501"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "502",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "502"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "503",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "503"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "504",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "504"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "505",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "505"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "506",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "506"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "507",
+    "ColorName": "VINO TINTO",
+    "CodigoColor": "507"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "508",
+    "ColorName": "MORA AZUL",
+    "CodigoColor": "508"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "509",
+    "ColorName": "MORADO OSCURO",
+    "CodigoColor": "509"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "510",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "510"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "511",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "511"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "512",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "512"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "513",
+    "ColorName": "MAGENTA",
+    "CodigoColor": "513"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "514",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "514"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "515",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "515"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "516",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "516"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "517",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "517"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "518",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "518"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "519",
+    "ColorName": "MORADO MEDIO",
+    "CodigoColor": "519"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "520",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "520"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "521",
+    "ColorName": "LAVANDA",
+    "CodigoColor": "521"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "522",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "522"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "523",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "523"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "524",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "524"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "525",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "525"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "526",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "526"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "527",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "527"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "528",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "528"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "529",
+    "ColorName": "MORADO BRILLANTE",
+    "CodigoColor": "529"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "530",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "530"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "531",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "531"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "532",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "532"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "533",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "533"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "534",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "534"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "535",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "535"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "536",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "536"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "537",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "537"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "538",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "538"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "539",
+    "ColorName": "MORADO CLARO",
+    "CodigoColor": "539"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "600",
+    "ColorName": "ROJO PURO",
+    "CodigoColor": "600"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "601",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "601"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "602",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "602"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "603",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "603"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "604",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "604"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "605",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "605"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "606",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "606"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "607",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "607"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "608",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "608"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "609",
+    "ColorName": "ROJO OSCURO",
+    "CodigoColor": "609"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "610",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "610"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "611",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "611"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "612",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "612"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "613",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "613"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "614",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "614"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "615",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "615"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "616",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "616"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "617",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "617"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "618",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "618"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "619",
+    "ColorName": "ROJO MEDIO",
+    "CodigoColor": "619"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "620",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "620"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "621",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "621"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "622",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "622"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "623",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "623"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "624",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "624"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "625",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "625"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "626",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "626"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "627",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "627"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "628",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "628"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "629",
+    "ColorName": "ROJO BRILLANTE",
+    "CodigoColor": "629"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "630",
+    "ColorName": "SALMON",
+    "CodigoColor": "630"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "631",
+    "ColorName": "SALMON MEDIO",
+    "CodigoColor": "631"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "632",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "632"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "633",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "633"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "634",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "634"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "635",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "635"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "636",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "636"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "637",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "637"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "638",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "638"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "639",
+    "ColorName": "ROJO CLARO",
+    "CodigoColor": "639"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "650",
+    "ColorName": "ROSADO",
+    "CodigoColor": "650"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "651",
+    "ColorName": "ROSADO OSCURO",
+    "CodigoColor": "651"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "652",
+    "ColorName": "ROSADO OSCURO",
+    "CodigoColor": "652"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "653",
+    "ColorName": "ROSADO OSCURO",
+    "CodigoColor": "653"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "654",
+    "ColorName": "ROSADO OSCURO",
+    "CodigoColor": "654"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "655",
+    "ColorName": "ROSA SPARK",
+    "CodigoColor": "655"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "656",
+    "ColorName": "ROSA NEON",
+    "CodigoColor": "656"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "657",
+    "ColorName": "FRESA",
+    "CodigoColor": "657"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "658",
+    "ColorName": "ROSADO OSCURO",
+    "CodigoColor": "658"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "659",
+    "ColorName": "ROSA VIEJO",
+    "CodigoColor": "659"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "660",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "660"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "661",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "661"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "662",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "662"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "663",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "663"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "664",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "664"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "665",
+    "ColorName": "ROSADO MORA",
+    "CodigoColor": "665"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "666",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "666"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "667",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "667"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "668",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "668"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "669",
+    "ColorName": "ROSADO MEDIO",
+    "CodigoColor": "669"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "670",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "670"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "671",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "671"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "672",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "672"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "673",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "673"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "674",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "674"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "675",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "675"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "676",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "676"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "677",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "677"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "678",
+    "ColorName": "ROSADO BRILLANTE",
+    "CodigoColor": "678"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "679",
+    "ColorName": "RAYAS FUCS",
+    "CodigoColor": "679"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "680",
+    "ColorName": "ROSADO CLARO",
+    "CodigoColor": "680"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "681",
+    "ColorName": "ROSADO CLARO",
+    "CodigoColor": "681"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "682",
+    "ColorName": "PALO DE ROSA",
+    "CodigoColor": "682"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "683",
+    "ColorName": "ROSADO CLARO",
+    "CodigoColor": "683"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "684",
+    "ColorName": "ROSADO CLARO",
+    "CodigoColor": "684"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "685",
+    "ColorName": "ROSADO CLARO",
+    "CodigoColor": "685"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "686",
+    "ColorName": "CORAL NEON",
+    "CodigoColor": "686"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "687",
+    "ColorName": "CORAL OSCURO",
+    "CodigoColor": "687"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "688",
+    "ColorName": "CORAL MEDIO",
+    "CodigoColor": "688"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "689",
+    "ColorName": "MELOCOTON",
+    "CodigoColor": "689"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "690",
+    "ColorName": "CORAL",
+    "CodigoColor": "690"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "699",
+    "ColorName": "FUCSIA",
+    "CodigoColor": "699"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "700",
+    "ColorName": "AMARILLO PURO",
+    "CodigoColor": "700"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "701",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "701"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "702",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "702"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "703",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "703"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "704",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "704"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "705",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "705"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "706",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "706"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "707",
+    "ColorName": "AMARILLO OSCURO",
+    "CodigoColor": "707"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "708",
+    "ColorName": "AMARILLO STATE",
+    "CodigoColor": "708"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "709",
+    "ColorName": "AMARILLO NEON",
+    "CodigoColor": "709"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "710",
+    "ColorName": "ORO",
+    "CodigoColor": "710"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "711",
+    "ColorName": "ORO",
+    "CodigoColor": "711"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "712",
+    "ColorName": "ORO",
+    "CodigoColor": "712"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "713",
+    "ColorName": "ORO",
+    "CodigoColor": "713"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "714",
+    "ColorName": "ORO",
+    "CodigoColor": "714"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "715",
+    "ColorName": "ORO",
+    "CodigoColor": "715"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "716",
+    "ColorName": "ORO",
+    "CodigoColor": "716"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "717",
+    "ColorName": "ORO",
+    "CodigoColor": "717"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "718",
+    "ColorName": "ORO",
+    "CodigoColor": "718"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "719",
+    "ColorName": "ORO",
+    "CodigoColor": "719"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "720",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "720"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "721",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "721"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "722",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "722"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "723",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "723"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "724",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "724"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "725",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "725"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "726",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "726"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "727",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "727"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "728",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "728"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "729",
+    "ColorName": "AMARILLO MEDIO",
+    "CodigoColor": "729"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "730",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "730"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "731",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "731"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "732",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "732"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "733",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "733"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "734",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "734"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "735",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "735"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "736",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "736"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "737",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "737"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "738",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "738"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "739",
+    "ColorName": "AMARILLO BRILLANTE",
+    "CodigoColor": "739"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "740",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "740"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "741",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "741"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "742",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "742"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "743",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "743"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "744",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "744"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "745",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "745"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "746",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "746"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "747",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "747"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "748",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "748"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "749",
+    "ColorName": "AMARILLO CLARO",
+    "CodigoColor": "749"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "750",
+    "ColorName": "BRONCE",
+    "CodigoColor": "750"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "800",
+    "ColorName": "NARANJA",
+    "CodigoColor": "800"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "801",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "801"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "802",
+    "ColorName": "TERRACOTA",
+    "CodigoColor": "802"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "803",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "803"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "804",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "804"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "805",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "805"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "806",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "806"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "807",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "807"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "808",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "808"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "809",
+    "ColorName": "NARANJA OSCURO",
+    "CodigoColor": "809"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "810",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "810"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "811",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "811"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "812",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "812"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "813",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "813"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "814",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "814"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "815",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "815"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "816",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "816"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "817",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "817"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "818",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "818"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "819",
+    "ColorName": "NARANJA MEDIO",
+    "CodigoColor": "819"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "820",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "820"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "821",
+    "ColorName": "NARANJA NEON",
+    "CodigoColor": "821"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "822",
+    "ColorName": "NARANJA NEON DINASTY",
+    "CodigoColor": "822"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "823",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "823"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "824",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "824"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "825",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "825"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "826",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "826"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "827",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "827"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "828",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "828"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "829",
+    "ColorName": "NARANJA BRILLANTE",
+    "CodigoColor": "829"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "830",
+    "ColorName": "NARANJA CLARO",
+    "CodigoColor": "830"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "831",
+    "ColorName": "NARANJA CLARO",
+    "CodigoColor": "831"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "832",
+    "ColorName": "NARANJA CLARO",
+    "CodigoColor": "832"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "833",
+    "ColorName": "MANDARINA",
+    "CodigoColor": "833"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "834",
+    "ColorName": "PRECIO ESPEC ALM",
+    "CodigoColor": "834"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "835",
+    "ColorName": "XL ROSA NEON",
+    "CodigoColor": "835"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "836",
+    "ColorName": "XL MORA AZUL",
+    "CodigoColor": "836"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "837",
+    "ColorName": "XL NEGRO",
+    "CodigoColor": "837"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "838",
+    "ColorName": "LIVERPOOL",
+    "CodigoColor": "838"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "839",
+    "ColorName": "INSERVIBLES",
+    "CodigoColor": "839"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "994",
+    "ColorName": "ESPECIAL OLGA",
+    "CodigoColor": "994"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "995",
+    "ColorName": "ESPECIAL NUNO",
+    "CodigoColor": "995"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "996",
+    "ColorName": "ESPECIAL DEVELYN",
+    "CodigoColor": "996"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "997",
+    "ColorName": "NEGRO BRILLANTE",
+    "CodigoColor": "997"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "998",
+    "ColorName": "MUESTRA FISICA",
+    "CodigoColor": "998"
+  },
+  {
+    "DataAreaId": "2",
+    "ColorId": "999",
+    "ColorName": "NO APLICA",
+    "CodigoColor": "999"
+  }
+]

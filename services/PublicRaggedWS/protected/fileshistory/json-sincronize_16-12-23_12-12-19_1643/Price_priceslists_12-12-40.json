@@ -1,0 +1,14 @@
+[
+  {
+    "IdCompany": "1",
+    "IdPriceList": null,
+    "DescriptionPriceList": "PR3-RSLIST",
+    "IdCurrency": "1"
+  },
+  {
+    "IdCompany": "2",
+    "IdPriceList": null,
+    "DescriptionPriceList": "P10-CODIGO",
+    "IdCurrency": "1"
+  }
+]

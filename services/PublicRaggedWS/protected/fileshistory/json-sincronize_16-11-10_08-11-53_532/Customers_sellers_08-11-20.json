@@ -1,0 +1,65 @@
+[
+  {
+    "DataAreaId": "1",
+    "UserId": "67",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "68",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "69",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "70",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "71",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "72",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  },
+  {
+    "DataAreaId": "1",
+    "UserId": "73",
+    "SellerId": null,
+    "CustomerId": null,
+    "SaleZoneId": "2",
+    "CityId": "1123",
+    "SaleGroupId": "7"
+  }
+]

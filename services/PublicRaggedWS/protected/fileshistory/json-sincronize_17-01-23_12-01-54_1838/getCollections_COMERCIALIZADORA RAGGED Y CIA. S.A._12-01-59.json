@@ -1,0 +1,2442 @@
+[
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "AMORYAMIST",
+    "ItemName": "AMOR Y AMISTAD 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "BODEGA 50",
+    "ItemName": "BODEGA 50",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "EVENTO",
+    "ItemName": "RA EVENTO 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FLAMINGO",
+    "ItemName": "FLAM  CAPSULA  1",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FLAMINGO 2",
+    "ItemName": "FLAM CAPSULA 2",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FLAMINGO 3",
+    "ItemName": "FLAM CAPSULA 3",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FLASH",
+    "ItemName": "RA FLASH 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FM012014",
+    "ItemName": "FMT 1 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FM022014",
+    "ItemName": "FMT 2 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FM032014",
+    "ItemName": "FMT 3 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "FM042014",
+    "ItemName": "FMT 4 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO10BGT",
+    "ItemName": "GRUPO 10 BOG RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO11BGT",
+    "ItemName": "GRUPO 11 BOG RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO12BGT",
+    "ItemName": "GRUPO 12 BOG RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO7 BGT",
+    "ItemName": "GRUPO 7 BOG  RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO8 BGT",
+    "ItemName": "GRUPO 8 BOG RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "GRUPO9 BGT",
+    "ItemName": "GRUPO 9 BOG RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "LINEA",
+    "ItemName": "LINEA",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "OFERTAS",
+    "ItemName": "RA OFERTAS 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "PRIMERGD",
+    "ItemName": "PRIME RAGGED",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "PRIMERGS",
+    "ItemName": "PRIME RAGSTYLE",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA PROMO",
+    "ItemName": "RA  PROMOCION 2017",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA012012",
+    "ItemName": "VAGONES RAGGED 2012",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA012013",
+    "ItemName": "VAGON 1 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA012014",
+    "ItemName": "VAGON 1 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA012015",
+    "ItemName": "VAGON 1 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA012016",
+    "ItemName": "VAGON 1 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA022013",
+    "ItemName": "VAGON 2 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA022014",
+    "ItemName": "VAGON 2 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA022015",
+    "ItemName": "VAGON 2 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA022016",
+    "ItemName": "VAGON 2 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA032013",
+    "ItemName": "VAGON 3 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA032014",
+    "ItemName": "VAGON 3 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA032015",
+    "ItemName": "VAGON 3 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA032016",
+    "ItemName": "VAGON 3 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA042013",
+    "ItemName": "VAGON 4 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA042014",
+    "ItemName": "VAGON 4 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA042015",
+    "ItemName": "VAGON 4 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA042016",
+    "ItemName": "VAGON 4 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA052013",
+    "ItemName": "VAGON 5 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA052014",
+    "ItemName": "VAGON 5 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA052015",
+    "ItemName": "VAGON 5 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA052016",
+    "ItemName": "VAGON 5 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA062013",
+    "ItemName": "VAGON 6 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA062014",
+    "ItemName": "VAGON 6 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA062015",
+    "ItemName": "VAGON 6 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA062016",
+    "ItemName": "VAGON 6 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA072013",
+    "ItemName": "VAGON 7 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA072014",
+    "ItemName": "VAGON 7 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA072015",
+    "ItemName": "VAGON 7 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA072016",
+    "ItemName": "VAGON 7 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA082013",
+    "ItemName": "VAGON 8 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA082014",
+    "ItemName": "VAGON 8 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA082015",
+    "ItemName": "VAGON 8 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA082016",
+    "ItemName": "VAGON 8 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA092013",
+    "ItemName": "VAGON 9 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA092014",
+    "ItemName": "VAGON 9 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA092015",
+    "ItemName": "VAGON 9 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA092016",
+    "ItemName": "VAGON 9 RAGGED2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA102013",
+    "ItemName": "VAGON 10 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA102014",
+    "ItemName": "VAGON 10 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA102015",
+    "ItemName": "VAGON 10 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA102016",
+    "ItemName": "VAGON 10 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA112013",
+    "ItemName": "VAGON 11 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA112014",
+    "ItemName": "VAGON 11 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA112015",
+    "ItemName": "VAGON 11 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA112016",
+    "ItemName": "VAGON 11 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA122013",
+    "ItemName": "VAGON 12 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA122014",
+    "ItemName": "VAGON 12 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA122015",
+    "ItemName": "VAGON 12 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA122016",
+    "ItemName": "VAGON 12 RAGGED2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA132013",
+    "ItemName": "VAGON 13 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA132014",
+    "ItemName": "VAGON 13 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA132015",
+    "ItemName": "VAGON 13 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA132015BG",
+    "ItemName": "VAGON 13RAGGED 2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA132016",
+    "ItemName": "VAGON 13 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA142013",
+    "ItemName": "VAGON 14 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA142014",
+    "ItemName": "VAGON 14 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA142015",
+    "ItemName": "VAGON 14 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA142015BG",
+    "ItemName": "VAGON 14 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA142016",
+    "ItemName": "VAGON 14 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA152013",
+    "ItemName": "VAGON 15 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA152014",
+    "ItemName": "VAGON 15 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA152015",
+    "ItemName": "VAGON 15 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA152015BG",
+    "ItemName": "VAGON15 RAGGED2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA152016",
+    "ItemName": "VAGON 15 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA162013",
+    "ItemName": "VAGON 16 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA162014",
+    "ItemName": "VAGON 16 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA162015",
+    "ItemName": "VAGON 16 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA162015BG",
+    "ItemName": "VAGON 16 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA162016",
+    "ItemName": "VAGON 16 RAGGED2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA172013",
+    "ItemName": "VAGON 17 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA172014",
+    "ItemName": "VAGON 17 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA172015",
+    "ItemName": "VAGON 17 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA172015BG",
+    "ItemName": "VAGON 17 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA172016",
+    "ItemName": "VAGON 17 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA182013",
+    "ItemName": "VAGON 18 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA182014",
+    "ItemName": "VAGON 18 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA182015",
+    "ItemName": "VAGON 18 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA182015BG",
+    "ItemName": "VAGON 18 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA182016",
+    "ItemName": "VAGON 18 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA192013",
+    "ItemName": "VAGON 19 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA192014",
+    "ItemName": "VAGON 19 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA192015",
+    "ItemName": "VAGON 19 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA192015BG",
+    "ItemName": "VAGON 19 RAGGED2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA192016",
+    "ItemName": "VAGON 19 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA202013",
+    "ItemName": "VAGON 20 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA202014",
+    "ItemName": "VAGON 20 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA202015",
+    "ItemName": "VAGON 20 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA202015BG",
+    "ItemName": "VAGON 20 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA202016",
+    "ItemName": "VAGON 20 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA212013",
+    "ItemName": "VAGON 21 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA212014",
+    "ItemName": "VAGON 21 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA212015",
+    "ItemName": "VAGON 21 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA212015BG",
+    "ItemName": "VAGON 21 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA212016",
+    "ItemName": "VAGON 21 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA222013",
+    "ItemName": "VAGON 22 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA222014",
+    "ItemName": "VAGON 22 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA222015",
+    "ItemName": "VAGON 22 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA222015BO",
+    "ItemName": "VAGON 22 RAGGED2015 BOG",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA222016",
+    "ItemName": "VAGON 22 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA232013",
+    "ItemName": "VAGON 23 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA232014",
+    "ItemName": "VAGON 23 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA232015",
+    "ItemName": "VAGON 23 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA232015BO",
+    "ItemName": "VAGON 23 RAGGED2015 BOG",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA232016",
+    "ItemName": "VAGON 23 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA242013",
+    "ItemName": "VAGON 24 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA242014",
+    "ItemName": "VAGON 24 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA242015",
+    "ItemName": "VAGON 24 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA242015BG",
+    "ItemName": "VAGON24RAGGED BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA242016",
+    "ItemName": "VAGON 24 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA252013",
+    "ItemName": "VAGON 25 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA252014",
+    "ItemName": "VAGON 25 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA252015",
+    "ItemName": "VAGON 25RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA252015BG",
+    "ItemName": "VAGON 25 RAGGED 2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA252016",
+    "ItemName": "VAGON 25 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA262013",
+    "ItemName": "VAGON 26 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA262014",
+    "ItemName": "VAGON 26 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA262015",
+    "ItemName": "VAGON 26 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA262015BG",
+    "ItemName": "VAGON 26 RAGGED BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA262016",
+    "ItemName": "VAGON 26 RAGGED2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA272013",
+    "ItemName": "VAGON 27 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA272014",
+    "ItemName": "VAGON 27 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA272015",
+    "ItemName": "VAGON 27 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA272015BG",
+    "ItemName": "VAGON 27 RAGGED2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA272016",
+    "ItemName": "VAGON 27 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA282013",
+    "ItemName": "VAGON 28 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA282014",
+    "ItemName": "VAGON 28 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA282015",
+    "ItemName": "VAGON 28 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA282016",
+    "ItemName": "VAGON 28 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA292013",
+    "ItemName": "VAGON 29 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA292014",
+    "ItemName": "VAGON 29 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA292015",
+    "ItemName": "VAGON 29 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA292015BG",
+    "ItemName": "VAGON 29 RAGGED2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA292016",
+    "ItemName": "VAGON 29 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA302013",
+    "ItemName": "VAGON 30 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA302014",
+    "ItemName": "VAGON 30 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA302015",
+    "ItemName": "VAGON 30 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA302016",
+    "ItemName": "VAGON 30 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA312013",
+    "ItemName": "VAGON 31 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA312014",
+    "ItemName": "VAGON 31 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA312015",
+    "ItemName": "VAGON 31 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA312015BG",
+    "ItemName": "VAGON 31 RAGGED 2015BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA312016",
+    "ItemName": "VAGON 31 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA322013",
+    "ItemName": "VAGON 32 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA322014",
+    "ItemName": "VAGON 32 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA322015",
+    "ItemName": "VAGON 32 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA322016",
+    "ItemName": "VAGON 32 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA332013",
+    "ItemName": "VAGON 33 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA332014",
+    "ItemName": "VAGON 33 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA332015",
+    "ItemName": "VAGON 33RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA332015BG",
+    "ItemName": "VAGON 33 RAGGED2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA332016",
+    "ItemName": "VAGON 33 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA342013",
+    "ItemName": "VAGON 34 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA342014",
+    "ItemName": "VAGON 34 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA342015",
+    "ItemName": "VAGON 34 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA342016",
+    "ItemName": "VAGON 34 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA352013",
+    "ItemName": "VAGON 35 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA352014",
+    "ItemName": "VAGON 35 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA352015",
+    "ItemName": "VAGON 35 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA352015BG",
+    "ItemName": "VAGON 35 RAGGED 2015 BGT",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA352016",
+    "ItemName": "VAGON 35 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA362013",
+    "ItemName": "VAGON 36 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA362014",
+    "ItemName": "VAGON 36 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA362015",
+    "ItemName": "VAGON 36 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA362016",
+    "ItemName": "VAGON 36 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA372013",
+    "ItemName": "VAGON 37 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA372014",
+    "ItemName": "VAGON 37 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA372015",
+    "ItemName": "VAGON 37 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA372016",
+    "ItemName": "VAGON 37 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA382013",
+    "ItemName": "VAGON 38 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA382014",
+    "ItemName": "VAGON 38 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA382015",
+    "ItemName": "VAGON 38 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA382016",
+    "ItemName": "VAGON 38 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA392013",
+    "ItemName": "VAGON 39 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA392014",
+    "ItemName": "VAGON 39 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA392015",
+    "ItemName": "VAGON 39 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA392016",
+    "ItemName": "VAGON 39 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA402013",
+    "ItemName": "VAGON 40 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA402014",
+    "ItemName": "VAGON 40 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA402015",
+    "ItemName": "VAGON 40 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA402016",
+    "ItemName": "VAGON 40 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA412013",
+    "ItemName": "VAGON 41 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA412014",
+    "ItemName": "VAGON 41 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA412015",
+    "ItemName": "VAGON 41  RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA412016",
+    "ItemName": "VAGON 41 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA422013",
+    "ItemName": "VAGON 42 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA422014",
+    "ItemName": "VAGON 42 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA422015",
+    "ItemName": "VAGON 42 RAGGED2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA422016",
+    "ItemName": "VAGON 42 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA432013",
+    "ItemName": "VAGON 43 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA432014",
+    "ItemName": "VAGON 43 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA432015",
+    "ItemName": "VAGON 43 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA432016",
+    "ItemName": "VAGON 43 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA442013",
+    "ItemName": "VAGON 44 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA442014",
+    "ItemName": "VAGON 44 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA442015",
+    "ItemName": "VAGON 44 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA442016",
+    "ItemName": "VAGON 44 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA452013",
+    "ItemName": "VAGON 45 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA452014",
+    "ItemName": "VAGON 45 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA452015",
+    "ItemName": "VAGON 45 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA452016",
+    "ItemName": "VAGON 45 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA462013",
+    "ItemName": "VAGON 46 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA462014",
+    "ItemName": "VAGON 46 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA462015",
+    "ItemName": "VAGON 46 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA462016",
+    "ItemName": "VAGON 46 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA472013",
+    "ItemName": "VAGON 47 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA472014",
+    "ItemName": "VAGON 47 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA472015",
+    "ItemName": "VAGON 47 RAGGED 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA472016",
+    "ItemName": "VAGON 47 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA482013",
+    "ItemName": "VAGON 48 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA482014",
+    "ItemName": "VAGON 48 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA482016",
+    "ItemName": "VAGON 48 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA492013",
+    "ItemName": "VAGON 49 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA492014",
+    "ItemName": "VAGON 49 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA492016",
+    "ItemName": "VAGON 49 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA502013",
+    "ItemName": "VAGON 50 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA502014",
+    "ItemName": "VAGON 50 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA502016",
+    "ItemName": "VAGON 50 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA512013",
+    "ItemName": "VAGON 51 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA512014",
+    "ItemName": "VAGON 51 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA512016",
+    "ItemName": "VAGON 51 RAGGED 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA522013",
+    "ItemName": "VAGON 52 RAGGED 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RA522014",
+    "ItemName": "VAGON 52 RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RAEXTRA 43",
+    "ItemName": "VAGONEXTRA432015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RANG2014",
+    "ItemName": "VAGON NIGHT RAGGED 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC012014",
+    "ItemName": "ENERO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC022014",
+    "ItemName": "FEBRERO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC032014",
+    "ItemName": "MARZO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC042014",
+    "ItemName": "ABRIL CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC052014",
+    "ItemName": "MAYO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC062014",
+    "ItemName": "JUNIO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC072014",
+    "ItemName": "JULIO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC082014",
+    "ItemName": "AGOSTO CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC092014",
+    "ItemName": "SEPTIEMBRE CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC102014",
+    "ItemName": "OCTUBRE CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC112014",
+    "ItemName": "NOVIEMBRE CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RC122014",
+    "ItemName": "DICIEMBRE CADENAS 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS012013",
+    "ItemName": "ENERO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS012014",
+    "ItemName": "ENERO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS012016",
+    "ItemName": "ENERO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS022013",
+    "ItemName": "FEBRERO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS022014",
+    "ItemName": "FEBRERO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS022016",
+    "ItemName": "FEBRERO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS032013",
+    "ItemName": "MARZO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS032014",
+    "ItemName": "MARZO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS032015",
+    "ItemName": "MARZO RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS032016",
+    "ItemName": "MARZO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS042013",
+    "ItemName": "ABRIL RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS042014",
+    "ItemName": "ABRIL RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS042015",
+    "ItemName": "ABBIL RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS042016",
+    "ItemName": "ABRIL RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS052013",
+    "ItemName": "MAYO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS052014",
+    "ItemName": "MAYO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS052015",
+    "ItemName": "MAYO RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS052016",
+    "ItemName": "MAYO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS062013",
+    "ItemName": "JUNIO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS062014",
+    "ItemName": "JUNIO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS062015",
+    "ItemName": "JUNIO RAGSTILE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS062016",
+    "ItemName": "JUNIO RAGSTYLE  2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS072013",
+    "ItemName": "JULIO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS072014",
+    "ItemName": "JULIO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS072015",
+    "ItemName": "JULIO RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS072016",
+    "ItemName": "JULIO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS082013",
+    "ItemName": "AGOSTO RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS082014",
+    "ItemName": "AGOSTO RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS082015",
+    "ItemName": "AGOSTO RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS082016",
+    "ItemName": "AGOSTO RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS092013",
+    "ItemName": "SEPTIEMBRE RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS092014",
+    "ItemName": "SEPTIEMBRE RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS092015",
+    "ItemName": "SEPTIEMBRE RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS092016",
+    "ItemName": "SEPTIEMBRE RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS102013",
+    "ItemName": "OCTUBRE RAGSTYLE2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS102014",
+    "ItemName": "OCTUBRE RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS102015",
+    "ItemName": "OCTUBRE RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS102016",
+    "ItemName": "OCTUBRE RAGSTYLE  2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS112013",
+    "ItemName": "NOVIEMBRE RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS112014",
+    "ItemName": "NOVIEMBRE RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS112015",
+    "ItemName": "NOVIEMBRE RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS112016",
+    "ItemName": "NOVIEMBRE RAGSTYLE 2016",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS122013",
+    "ItemName": "DICIEMBRE RAGSTYLE 2013",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS122014",
+    "ItemName": "DICIEMBRE RAGSTYLE 2014",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RS122015",
+    "ItemName": "DICIEMBRE RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "RSIND12015",
+    "ItemName": "MARZO IND1 RAGSTYLE 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  },
+  {
+    "IdCollection": null,
+    "DataAreaId": "1",
+    "ItemCollectionId": "VIP",
+    "ItemName": "RA VIP 2015",
+    "IdState": null,
+    "IdStateSvailable": null
+  }
+]

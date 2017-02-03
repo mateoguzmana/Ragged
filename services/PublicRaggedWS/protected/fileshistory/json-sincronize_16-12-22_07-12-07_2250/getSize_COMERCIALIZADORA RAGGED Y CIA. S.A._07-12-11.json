@@ -1,0 +1,1748 @@
+[
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "-",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XS",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XS",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "3698",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "95602",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "InventS",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "REF",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "46",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "0.92",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "001",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "002",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "00C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "01",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "020",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "021",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "030",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "03M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "04",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "040",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "050",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "05C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "05M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "06",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "06C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "07C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "07M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "08",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "08C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "08M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "09C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "09M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "0L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "0S",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1.2",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1.5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1.6",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1/2",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "10",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "100",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "101",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "10C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "10L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "10M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "11/",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "11C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "12",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "12C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "12L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "13C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "13L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "13M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "14",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "14C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "14L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "15C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "15L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "15M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "16",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "16C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "16L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "16M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "17C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "17L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "18",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "18C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "18L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "19C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "19L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1S",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "1X",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "2",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "2.5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "2.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "2.5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "200",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "201",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "205",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "20C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "20L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "210",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "21C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "220",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "22C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "22L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "24C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "24L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "24M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "250",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "251",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "25C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "260",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "26C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "26L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "270",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "27C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "27L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "28",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "28C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "28L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "29C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "3",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "3.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "3.5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "3/4",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "30",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "300",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "301",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "30C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "30L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "310",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "31C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "31L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "32",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "32C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "32L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "33",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "330",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "33C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "34",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "35",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "35",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "35C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "36",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "36C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "36L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "36M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "37",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "37",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "37C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "38",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "38C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "39",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "39C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "4",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "4.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "4.5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "40",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "400",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "401",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "40C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "41",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "41C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "42",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "420",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "42C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "43",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "43C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "44",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "440",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "44C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "44L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "450",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "45C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "46",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "46C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "47C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "48C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "49C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "5",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "5 Disponib",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "5.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "500",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "501",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "50C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "510",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "51C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "52C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "530",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "53C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "54C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "55C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "56C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "57C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "58C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "6",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "6 Seleccio",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "6",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "6.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "600",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "601",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "60C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "610",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "62C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "63C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "640",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "641",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "64C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "650",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "651",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "65C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "660",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "66C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "67C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "68C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "7",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "7 Disponib",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "700",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "701",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "70C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "710",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "71C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "720",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "72C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "730",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "73C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "740",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "75C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "76C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "78C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "79C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "7CM",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "8",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "8",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "8.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "80C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "81C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "82C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "83",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "830",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "83C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "85C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "87C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "9",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "9.0",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "90C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "91C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "92C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "93C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "97C",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "999",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "A",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS110243",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS110577",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS110678",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS210146",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS210242",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS220426",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS220437",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS220565",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS220566",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS220614",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS310052",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS310055",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS310066",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS420093",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS420097",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS420098",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS430275",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS430276",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS430325",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS430341",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS430355",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS510009",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS610027",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS610048",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS620091",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS620099",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS640280",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS640323",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "AS640329",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "B",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "G",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "I",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "L",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "LL",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "M Disponib",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "M",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "S",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "S",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "SL",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "T",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "Tamaño",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "U",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "UNICA",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "X",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XL",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XL",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XS",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XS",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XX",
+    "IdState": null
+  },
+  {
+    "IdSize": null,
+    "DataAreaId": "1",
+    "InventSizeId": "XXL",
+    "IdState": null
+  }
+]

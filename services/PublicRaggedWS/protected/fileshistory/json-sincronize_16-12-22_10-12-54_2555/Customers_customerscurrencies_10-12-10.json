@@ -1,0 +1,4016 @@
+[
+  {
+    "AccountNum": "0010067818-4",
+    "idcurrency": "1",
+    "idcustomer": "485",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "001-1435860-9",
+    "idcurrency": "1",
+    "idcustomer": "486",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "01196382409",
+    "idcurrency": "3",
+    "idcustomer": "487",
+    "descriptioncurrency": "USD"
+  },
+  {
+    "AccountNum": "0703925644",
+    "idcurrency": "1",
+    "idcustomer": "488",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1012351715",
+    "idcurrency": "1",
+    "idcustomer": "489",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1014193779",
+    "idcurrency": "1",
+    "idcustomer": "490",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017125295",
+    "idcurrency": "1",
+    "idcustomer": "491",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017125576",
+    "idcurrency": "1",
+    "idcustomer": "492",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017152213",
+    "idcurrency": "1",
+    "idcustomer": "493",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017155370",
+    "idcurrency": "1",
+    "idcustomer": "494",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017163672",
+    "idcurrency": "1",
+    "idcustomer": "495",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017169051",
+    "idcurrency": "1",
+    "idcustomer": "496",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017169302",
+    "idcurrency": "1",
+    "idcustomer": "497",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017175196",
+    "idcurrency": "1",
+    "idcustomer": "498",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1017575196",
+    "idcurrency": "1",
+    "idcustomer": "499",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020400074",
+    "idcurrency": "1",
+    "idcustomer": "500",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020426201",
+    "idcurrency": "1",
+    "idcustomer": "501",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020427572",
+    "idcurrency": "1",
+    "idcustomer": "502",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020446924",
+    "idcurrency": "1",
+    "idcustomer": "503",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020726943",
+    "idcurrency": "1",
+    "idcustomer": "504",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020751799",
+    "idcurrency": "1",
+    "idcustomer": "505",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1020786540",
+    "idcurrency": "1",
+    "idcustomer": "506",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1022095630",
+    "idcurrency": "1",
+    "idcustomer": "507",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1022323701",
+    "idcurrency": "1",
+    "idcustomer": "508",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1023892254",
+    "idcurrency": "1",
+    "idcustomer": "509",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1032367058",
+    "idcurrency": "1",
+    "idcustomer": "511",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1032386804",
+    "idcurrency": "1",
+    "idcustomer": "512",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1032428194",
+    "idcurrency": "1",
+    "idcustomer": "513",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1033338755",
+    "idcurrency": "1",
+    "idcustomer": "514",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1033371669",
+    "idcurrency": "1",
+    "idcustomer": "515",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1035225206",
+    "idcurrency": "1",
+    "idcustomer": "516",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1035417207",
+    "idcurrency": "1",
+    "idcustomer": "517",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1036336366",
+    "idcurrency": "1",
+    "idcustomer": "518",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1036337442",
+    "idcurrency": "1",
+    "idcustomer": "519",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1036613583",
+    "idcurrency": "1",
+    "idcustomer": "520",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1036932751",
+    "idcurrency": "1",
+    "idcustomer": "521",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037570456",
+    "idcurrency": "1",
+    "idcustomer": "522",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037573579",
+    "idcurrency": "1",
+    "idcustomer": "523",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037591199",
+    "idcurrency": "1",
+    "idcustomer": "524",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037597290",
+    "idcurrency": "1",
+    "idcustomer": "525",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037620337",
+    "idcurrency": "1",
+    "idcustomer": "526",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1037688466",
+    "idcurrency": "1",
+    "idcustomer": "527",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1039448823",
+    "idcurrency": "1",
+    "idcustomer": "528",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1039457103",
+    "idcurrency": "1",
+    "idcustomer": "529",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1042766063",
+    "idcurrency": "1",
+    "idcustomer": "530",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1051824657",
+    "idcurrency": "1",
+    "idcustomer": "531",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1053768057",
+    "idcurrency": "1",
+    "idcustomer": "532",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "10607229",
+    "idcurrency": "1",
+    "idcustomer": "533",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1064986718",
+    "idcurrency": "1",
+    "idcustomer": "534",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1067929475",
+    "idcurrency": "1",
+    "idcustomer": "535",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1067931232",
+    "idcurrency": "1",
+    "idcustomer": "536",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1075217841",
+    "idcurrency": "1",
+    "idcustomer": "537",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1075220427",
+    "idcurrency": "1",
+    "idcustomer": "538",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1075246929",
+    "idcurrency": "1",
+    "idcustomer": "539",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1075252657",
+    "idcurrency": "1",
+    "idcustomer": "1172",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1077420548",
+    "idcurrency": "1",
+    "idcustomer": "540",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1085244849",
+    "idcurrency": "1",
+    "idcustomer": "541",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1088236871",
+    "idcurrency": "1",
+    "idcustomer": "542",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1088240934",
+    "idcurrency": "1",
+    "idcustomer": "543",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1088255740",
+    "idcurrency": "1",
+    "idcustomer": "544",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "108832126",
+    "idcurrency": "1",
+    "idcustomer": "545",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1092345807",
+    "idcurrency": "1",
+    "idcustomer": "546",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1095906118",
+    "idcurrency": "1",
+    "idcustomer": "547",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1098628843",
+    "idcurrency": "1",
+    "idcustomer": "548",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1110470327",
+    "idcurrency": "1",
+    "idcustomer": "549",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "11123177",
+    "idcurrency": "1",
+    "idcustomer": "550",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1118530594",
+    "idcurrency": "1",
+    "idcustomer": "551",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1118538075",
+    "idcurrency": "1",
+    "idcustomer": "552",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1120500193",
+    "idcurrency": "1",
+    "idcustomer": "553",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1120742513",
+    "idcurrency": "1",
+    "idcustomer": "554",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "11224565",
+    "idcurrency": "1",
+    "idcustomer": "555",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1124039723",
+    "idcurrency": "1",
+    "idcustomer": "556",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1125779464",
+    "idcurrency": "1",
+    "idcustomer": "557",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1126788578",
+    "idcurrency": "1",
+    "idcustomer": "558",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128267266",
+    "idcurrency": "1",
+    "idcustomer": "559",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128267541",
+    "idcurrency": "1",
+    "idcustomer": "560",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128269159",
+    "idcurrency": "1",
+    "idcustomer": "561",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128273188",
+    "idcurrency": "1",
+    "idcustomer": "562",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128278435",
+    "idcurrency": "1",
+    "idcustomer": "563",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128419982",
+    "idcurrency": "1",
+    "idcustomer": "564",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1128422995",
+    "idcurrency": "1",
+    "idcustomer": "565",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1140880190",
+    "idcurrency": "1",
+    "idcustomer": "566",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1144031075",
+    "idcurrency": "1",
+    "idcustomer": "567",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152185591",
+    "idcurrency": "1",
+    "idcustomer": "568",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152192913",
+    "idcurrency": "1",
+    "idcustomer": "569",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152197420",
+    "idcurrency": "1",
+    "idcustomer": "570",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152199775",
+    "idcurrency": "1",
+    "idcustomer": "571",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152441497",
+    "idcurrency": "1",
+    "idcustomer": "572",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1152686211",
+    "idcurrency": "1",
+    "idcustomer": "573",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "12229705",
+    "idcurrency": "1",
+    "idcustomer": "574",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "12239716",
+    "idcurrency": "1",
+    "idcustomer": "575",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1306721810",
+    "idcurrency": "1",
+    "idcustomer": "576",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "13457996",
+    "idcurrency": "1",
+    "idcustomer": "577",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "13488589",
+    "idcurrency": "1",
+    "idcustomer": "578",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "14768560",
+    "idcurrency": "1",
+    "idcustomer": "579",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "15362540",
+    "idcurrency": "1",
+    "idcustomer": "580",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "15679097",
+    "idcurrency": "1",
+    "idcustomer": "581",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "15749240",
+    "idcurrency": "1",
+    "idcustomer": "1660",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "16006902",
+    "idcurrency": "1",
+    "idcustomer": "582",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "16387771",
+    "idcurrency": "1",
+    "idcustomer": "583",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "16460267",
+    "idcurrency": "1",
+    "idcustomer": "584",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "16786927",
+    "idcurrency": "1",
+    "idcustomer": "585",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1707308738",
+    "idcurrency": "1",
+    "idcustomer": "586",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1714930045",
+    "idcurrency": "1",
+    "idcustomer": "587",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "17588133",
+    "idcurrency": "1",
+    "idcustomer": "588",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "1781865",
+    "idcurrency": "3",
+    "idcustomer": "589",
+    "descriptioncurrency": "USD"
+  },
+  {
+    "AccountNum": "19572310",
+    "idcurrency": "1",
+    "idcustomer": "590",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20228294",
+    "idcurrency": "1",
+    "idcustomer": "591",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20616185",
+    "idcurrency": "1",
+    "idcustomer": "592",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20621114",
+    "idcurrency": "1",
+    "idcustomer": "593",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20716533",
+    "idcurrency": "1",
+    "idcustomer": "594",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20748554",
+    "idcurrency": "1",
+    "idcustomer": "595",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "20773947",
+    "idcurrency": "1",
+    "idcustomer": "596",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21016741",
+    "idcurrency": "1",
+    "idcustomer": "597",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21113683",
+    "idcurrency": "1",
+    "idcustomer": "598",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21177314",
+    "idcurrency": "1",
+    "idcustomer": "599",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21177781",
+    "idcurrency": "1",
+    "idcustomer": "600",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21226279",
+    "idcurrency": "1",
+    "idcustomer": "601",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21235118",
+    "idcurrency": "1",
+    "idcustomer": "602",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21428571",
+    "idcurrency": "1",
+    "idcustomer": "603",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "2143182",
+    "idcurrency": "1",
+    "idcustomer": "604",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21462447",
+    "idcurrency": "1",
+    "idcustomer": "605",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21462856",
+    "idcurrency": "1",
+    "idcustomer": "606",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21508888",
+    "idcurrency": "1",
+    "idcustomer": "607",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21553715",
+    "idcurrency": "1",
+    "idcustomer": "608",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21619426",
+    "idcurrency": "1",
+    "idcustomer": "609",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21677203",
+    "idcurrency": "1",
+    "idcustomer": "610",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21758924",
+    "idcurrency": "1",
+    "idcustomer": "611",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21831682",
+    "idcurrency": "1",
+    "idcustomer": "612",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21832690",
+    "idcurrency": "1",
+    "idcustomer": "613",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21896451",
+    "idcurrency": "1",
+    "idcustomer": "614",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21953522",
+    "idcurrency": "1",
+    "idcustomer": "615",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21970416",
+    "idcurrency": "1",
+    "idcustomer": "616",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21979907",
+    "idcurrency": "1",
+    "idcustomer": "617",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "21980818",
+    "idcurrency": "1",
+    "idcustomer": "618",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22103335",
+    "idcurrency": "1",
+    "idcustomer": "619",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22135",
+    "idcurrency": "1",
+    "idcustomer": "620",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22215391",
+    "idcurrency": "1",
+    "idcustomer": "621",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22476646",
+    "idcurrency": "1",
+    "idcustomer": "622",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22478593",
+    "idcurrency": "1",
+    "idcustomer": "623",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22736478",
+    "idcurrency": "1",
+    "idcustomer": "624",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "22884826",
+    "idcurrency": "1",
+    "idcustomer": "625",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "23553042",
+    "idcurrency": "1",
+    "idcustomer": "626",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "23827695",
+    "idcurrency": "1",
+    "idcustomer": "627",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "23875351",
+    "idcurrency": "1",
+    "idcustomer": "628",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24336705",
+    "idcurrency": "1",
+    "idcustomer": "629",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24547071",
+    "idcurrency": "1",
+    "idcustomer": "630",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24574912",
+    "idcurrency": "1",
+    "idcustomer": "631",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24627385",
+    "idcurrency": "1",
+    "idcustomer": "632",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24694447",
+    "idcurrency": "1",
+    "idcustomer": "633",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "24936757",
+    "idcurrency": "1",
+    "idcustomer": "634",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "25152087",
+    "idcurrency": "1",
+    "idcustomer": "635",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "25776260",
+    "idcurrency": "1",
+    "idcustomer": "636",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "25954056",
+    "idcurrency": "1",
+    "idcustomer": "637",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26274378",
+    "idcurrency": "1",
+    "idcustomer": "638",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26323892",
+    "idcurrency": "1",
+    "idcustomer": "639",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26607984",
+    "idcurrency": "1",
+    "idcustomer": "640",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26620682",
+    "idcurrency": "1",
+    "idcustomer": "641",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26662467",
+    "idcurrency": "1",
+    "idcustomer": "642",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26665078",
+    "idcurrency": "1",
+    "idcustomer": "643",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "26985337",
+    "idcurrency": "1",
+    "idcustomer": "644",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "28404839",
+    "idcurrency": "1",
+    "idcustomer": "645",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "28496196",
+    "idcurrency": "1",
+    "idcustomer": "646",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "28845766",
+    "idcurrency": "1",
+    "idcustomer": "1339",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29110689",
+    "idcurrency": "1",
+    "idcustomer": "1174",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29111688",
+    "idcurrency": "1",
+    "idcustomer": "647",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29179986",
+    "idcurrency": "1",
+    "idcustomer": "648",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29207048",
+    "idcurrency": "1",
+    "idcustomer": "649",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "2922",
+    "idcurrency": "1",
+    "idcustomer": "650",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29229208",
+    "idcurrency": "1",
+    "idcustomer": "651",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "296638330",
+    "idcurrency": "1",
+    "idcustomer": "652",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29740496",
+    "idcurrency": "1",
+    "idcustomer": "653",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "29812704",
+    "idcurrency": "1",
+    "idcustomer": "654",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30294376",
+    "idcurrency": "1",
+    "idcustomer": "655",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30334636",
+    "idcurrency": "1",
+    "idcustomer": "656",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30345133",
+    "idcurrency": "1",
+    "idcustomer": "657",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30372709",
+    "idcurrency": "1",
+    "idcustomer": "658",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30391874",
+    "idcurrency": "1",
+    "idcustomer": "659",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30647003",
+    "idcurrency": "1",
+    "idcustomer": "660",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30689631",
+    "idcurrency": "1",
+    "idcustomer": "661",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30712648",
+    "idcurrency": "1",
+    "idcustomer": "662",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30731997",
+    "idcurrency": "1",
+    "idcustomer": "663",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "30744903",
+    "idcurrency": "1",
+    "idcustomer": "664",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "3-101-355685",
+    "idcurrency": "1",
+    "idcustomer": "666",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "3-101-669072",
+    "idcurrency": "1",
+    "idcustomer": "667",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31176396",
+    "idcurrency": "1",
+    "idcustomer": "668",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31195065",
+    "idcurrency": "1",
+    "idcustomer": "669",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31249915",
+    "idcurrency": "1",
+    "idcustomer": "670",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31374805",
+    "idcurrency": "1",
+    "idcustomer": "671",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31429662",
+    "idcurrency": "1",
+    "idcustomer": "672",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31432406",
+    "idcurrency": "1",
+    "idcustomer": "673",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31467252",
+    "idcurrency": "1",
+    "idcustomer": "674",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31576258",
+    "idcurrency": "1",
+    "idcustomer": "675",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31582862",
+    "idcurrency": "1",
+    "idcustomer": "676",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31710989",
+    "idcurrency": "1",
+    "idcustomer": "677",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31790176",
+    "idcurrency": "1",
+    "idcustomer": "678",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31840650",
+    "idcurrency": "1",
+    "idcustomer": "679",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31968389",
+    "idcurrency": "1",
+    "idcustomer": "1661",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31974177",
+    "idcurrency": "1",
+    "idcustomer": "680",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31977568",
+    "idcurrency": "1",
+    "idcustomer": "681",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "31979514",
+    "idcurrency": "1",
+    "idcustomer": "682",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32111342",
+    "idcurrency": "1",
+    "idcustomer": "683",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32144132",
+    "idcurrency": "1",
+    "idcustomer": "684",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32150913",
+    "idcurrency": "1",
+    "idcustomer": "685",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32181988",
+    "idcurrency": "1",
+    "idcustomer": "686",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32183470",
+    "idcurrency": "1",
+    "idcustomer": "687",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32243386",
+    "idcurrency": "1",
+    "idcustomer": "688",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32243629",
+    "idcurrency": "1",
+    "idcustomer": "689",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32256731",
+    "idcurrency": "1",
+    "idcustomer": "690",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32298176",
+    "idcurrency": "1",
+    "idcustomer": "691",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32313411",
+    "idcurrency": "1",
+    "idcustomer": "692",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32351828",
+    "idcurrency": "1",
+    "idcustomer": "693",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32352640",
+    "idcurrency": "1",
+    "idcustomer": "694",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32358364",
+    "idcurrency": "1",
+    "idcustomer": "695",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32526355",
+    "idcurrency": "1",
+    "idcustomer": "696",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32722958",
+    "idcurrency": "1",
+    "idcustomer": "697",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "32908644",
+    "idcurrency": "1",
+    "idcustomer": "698",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "33339440",
+    "idcurrency": "1",
+    "idcustomer": "699",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "33353054",
+    "idcurrency": "1",
+    "idcustomer": "700",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "33480358",
+    "idcurrency": "1",
+    "idcustomer": "701",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34044583",
+    "idcurrency": "1",
+    "idcustomer": "702",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34978828",
+    "idcurrency": "1",
+    "idcustomer": "703",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34983609",
+    "idcurrency": "1",
+    "idcustomer": "704",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34997666",
+    "idcurrency": "1",
+    "idcustomer": "705",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34998665",
+    "idcurrency": "1",
+    "idcustomer": "706",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34999084",
+    "idcurrency": "1",
+    "idcustomer": "707",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "34999962",
+    "idcurrency": "1",
+    "idcustomer": "708",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "35199171",
+    "idcurrency": "1",
+    "idcustomer": "709",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "3548107",
+    "idcurrency": "1",
+    "idcustomer": "710",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36066832",
+    "idcurrency": "1",
+    "idcustomer": "711",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36177691",
+    "idcurrency": "1",
+    "idcustomer": "712",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36270457",
+    "idcurrency": "1",
+    "idcustomer": "713",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36278445",
+    "idcurrency": "1",
+    "idcustomer": "714",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36278456",
+    "idcurrency": "1",
+    "idcustomer": "715",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36306645",
+    "idcurrency": "1",
+    "idcustomer": "716",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36310108",
+    "idcurrency": "1",
+    "idcustomer": "717",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36562906",
+    "idcurrency": "1",
+    "idcustomer": "718",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "36723201",
+    "idcurrency": "1",
+    "idcustomer": "719",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37318650",
+    "idcurrency": "1",
+    "idcustomer": "720",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37323520",
+    "idcurrency": "1",
+    "idcustomer": "721",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37323884",
+    "idcurrency": "1",
+    "idcustomer": "1175",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37334661",
+    "idcurrency": "1",
+    "idcustomer": "722",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "373701",
+    "idcurrency": "1",
+    "idcustomer": "723",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37577225",
+    "idcurrency": "1",
+    "idcustomer": "724",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37860857",
+    "idcurrency": "1",
+    "idcustomer": "725",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37891854",
+    "idcurrency": "1",
+    "idcustomer": "726",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "37922859",
+    "idcurrency": "1",
+    "idcustomer": "727",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "380300406",
+    "idcurrency": "1",
+    "idcustomer": "728",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "3821886",
+    "idcurrency": "1",
+    "idcustomer": "729",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38236840",
+    "idcurrency": "1",
+    "idcustomer": "730",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38256780",
+    "idcurrency": "1",
+    "idcustomer": "731",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38436127",
+    "idcurrency": "1",
+    "idcustomer": "732",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "385218",
+    "idcurrency": "1",
+    "idcustomer": "733",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38553179",
+    "idcurrency": "1",
+    "idcustomer": "734",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38555110",
+    "idcurrency": "1",
+    "idcustomer": "735",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38563350",
+    "idcurrency": "1",
+    "idcustomer": "1662",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38567209",
+    "idcurrency": "1",
+    "idcustomer": "736",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38850972",
+    "idcurrency": "1",
+    "idcustomer": "737",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "38889120",
+    "idcurrency": "1",
+    "idcustomer": "738",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39166795",
+    "idcurrency": "1",
+    "idcustomer": "739",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39178579",
+    "idcurrency": "1",
+    "idcustomer": "740",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39210708",
+    "idcurrency": "1",
+    "idcustomer": "741",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39267645",
+    "idcurrency": "1",
+    "idcustomer": "742",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39269424",
+    "idcurrency": "1",
+    "idcustomer": "743",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39269577",
+    "idcurrency": "1",
+    "idcustomer": "744",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39354180",
+    "idcurrency": "1",
+    "idcustomer": "745",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39354491",
+    "idcurrency": "1",
+    "idcustomer": "746",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39406745",
+    "idcurrency": "1",
+    "idcustomer": "747",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39407629",
+    "idcurrency": "1",
+    "idcustomer": "748",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39410761",
+    "idcurrency": "1",
+    "idcustomer": "749",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39417716",
+    "idcurrency": "1",
+    "idcustomer": "750",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39425968",
+    "idcurrency": "1",
+    "idcustomer": "751",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39451792",
+    "idcurrency": "1",
+    "idcustomer": "752",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39530849",
+    "idcurrency": "1",
+    "idcustomer": "753",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "39576813",
+    "idcurrency": "1",
+    "idcustomer": "754",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40218806",
+    "idcurrency": "1",
+    "idcustomer": "755",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40331009",
+    "idcurrency": "1",
+    "idcustomer": "756",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40366403",
+    "idcurrency": "1",
+    "idcustomer": "757",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40393899",
+    "idcurrency": "1",
+    "idcustomer": "758",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40414400",
+    "idcurrency": "1",
+    "idcustomer": "759",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40415913",
+    "idcurrency": "1",
+    "idcustomer": "760",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40439072",
+    "idcurrency": "1",
+    "idcustomer": "761",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40691835",
+    "idcurrency": "1",
+    "idcustomer": "762",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40778278",
+    "idcurrency": "1",
+    "idcustomer": "763",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "40926536",
+    "idcurrency": "1",
+    "idcustomer": "764",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41319333",
+    "idcurrency": "1",
+    "idcustomer": "765",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41752642",
+    "idcurrency": "1",
+    "idcustomer": "766",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41897204",
+    "idcurrency": "1",
+    "idcustomer": "767",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41929430",
+    "idcurrency": "1",
+    "idcustomer": "768",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41933707",
+    "idcurrency": "1",
+    "idcustomer": "769",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "41947850",
+    "idcurrency": "1",
+    "idcustomer": "770",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42086317",
+    "idcurrency": "1",
+    "idcustomer": "771",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42096387",
+    "idcurrency": "1",
+    "idcustomer": "772",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42101272",
+    "idcurrency": "1",
+    "idcustomer": "773",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42127571",
+    "idcurrency": "1",
+    "idcustomer": "774",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42140386",
+    "idcurrency": "1",
+    "idcustomer": "775",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42681400",
+    "idcurrency": "1",
+    "idcustomer": "776",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42690430",
+    "idcurrency": "1",
+    "idcustomer": "777",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42693174",
+    "idcurrency": "1",
+    "idcustomer": "778",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42732316",
+    "idcurrency": "1",
+    "idcustomer": "779",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42761665",
+    "idcurrency": "1",
+    "idcustomer": "780",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42797373",
+    "idcurrency": "1",
+    "idcustomer": "781",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42798376",
+    "idcurrency": "1",
+    "idcustomer": "782",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42881080",
+    "idcurrency": "1",
+    "idcustomer": "783",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42881673",
+    "idcurrency": "1",
+    "idcustomer": "784",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42894589",
+    "idcurrency": "1",
+    "idcustomer": "785",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42899015",
+    "idcurrency": "1",
+    "idcustomer": "786",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42969601",
+    "idcurrency": "1",
+    "idcustomer": "787",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "42985496",
+    "idcurrency": "1",
+    "idcustomer": "788",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43023660",
+    "idcurrency": "1",
+    "idcustomer": "789",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43040608",
+    "idcurrency": "1",
+    "idcustomer": "790",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43066442",
+    "idcurrency": "1",
+    "idcustomer": "791",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43070577",
+    "idcurrency": "1",
+    "idcustomer": "792",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43073714",
+    "idcurrency": "1",
+    "idcustomer": "793",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43076543",
+    "idcurrency": "1",
+    "idcustomer": "794",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43079784",
+    "idcurrency": "1",
+    "idcustomer": "795",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43082959",
+    "idcurrency": "1",
+    "idcustomer": "796",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43089267",
+    "idcurrency": "1",
+    "idcustomer": "797",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43098979",
+    "idcurrency": "1",
+    "idcustomer": "798",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43119532",
+    "idcurrency": "1",
+    "idcustomer": "799",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43151787",
+    "idcurrency": "1",
+    "idcustomer": "800",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43153484",
+    "idcurrency": "1",
+    "idcustomer": "801",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43155130",
+    "idcurrency": "1",
+    "idcustomer": "802",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43156924",
+    "idcurrency": "1",
+    "idcustomer": "803",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43158090",
+    "idcurrency": "1",
+    "idcustomer": "804",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43160885",
+    "idcurrency": "1",
+    "idcustomer": "805",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43161511",
+    "idcurrency": "1",
+    "idcustomer": "806",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43165685",
+    "idcurrency": "1",
+    "idcustomer": "807",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43166220",
+    "idcurrency": "1",
+    "idcustomer": "808",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43183719",
+    "idcurrency": "1",
+    "idcustomer": "809",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43203412",
+    "idcurrency": "1",
+    "idcustomer": "810",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43210179",
+    "idcurrency": "1",
+    "idcustomer": "811",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43251433",
+    "idcurrency": "1",
+    "idcustomer": "812",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43252685",
+    "idcurrency": "1",
+    "idcustomer": "813",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43253251",
+    "idcurrency": "1",
+    "idcustomer": "814",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43256365",
+    "idcurrency": "1",
+    "idcustomer": "815",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43257843",
+    "idcurrency": "1",
+    "idcustomer": "816",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43263451",
+    "idcurrency": "1",
+    "idcustomer": "817",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43269287",
+    "idcurrency": "1",
+    "idcustomer": "818",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43271121",
+    "idcurrency": "1",
+    "idcustomer": "819",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43273287",
+    "idcurrency": "1",
+    "idcustomer": "820",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43420433",
+    "idcurrency": "1",
+    "idcustomer": "821",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43423024",
+    "idcurrency": "1",
+    "idcustomer": "822",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43447345",
+    "idcurrency": "1",
+    "idcustomer": "823",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43475563",
+    "idcurrency": "1",
+    "idcustomer": "824",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43481002",
+    "idcurrency": "1",
+    "idcustomer": "825",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43488953",
+    "idcurrency": "1",
+    "idcustomer": "826",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43497380",
+    "idcurrency": "1",
+    "idcustomer": "827",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43497707",
+    "idcurrency": "1",
+    "idcustomer": "828",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43500548",
+    "idcurrency": "1",
+    "idcustomer": "829",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43500741",
+    "idcurrency": "1",
+    "idcustomer": "830",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43511276",
+    "idcurrency": "1",
+    "idcustomer": "831",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43517745",
+    "idcurrency": "1",
+    "idcustomer": "832",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43517850",
+    "idcurrency": "1",
+    "idcustomer": "833",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43519129",
+    "idcurrency": "1",
+    "idcustomer": "834",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43528321",
+    "idcurrency": "1",
+    "idcustomer": "835",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43547039",
+    "idcurrency": "1",
+    "idcustomer": "836",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43548090",
+    "idcurrency": "1",
+    "idcustomer": "837",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43549902",
+    "idcurrency": "1",
+    "idcustomer": "838",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43553451",
+    "idcurrency": "1",
+    "idcustomer": "839",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43555565",
+    "idcurrency": "1",
+    "idcustomer": "840",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43556244",
+    "idcurrency": "1",
+    "idcustomer": "841",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43558198",
+    "idcurrency": "1",
+    "idcustomer": "842",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43559412",
+    "idcurrency": "1",
+    "idcustomer": "843",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "4356065",
+    "idcurrency": "1",
+    "idcustomer": "844",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43560979",
+    "idcurrency": "1",
+    "idcustomer": "845",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43564144",
+    "idcurrency": "1",
+    "idcustomer": "846",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43566564",
+    "idcurrency": "1",
+    "idcustomer": "847",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43572193",
+    "idcurrency": "1",
+    "idcustomer": "848",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43572409",
+    "idcurrency": "1",
+    "idcustomer": "849",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43577288",
+    "idcurrency": "1",
+    "idcustomer": "850",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43580773",
+    "idcurrency": "1",
+    "idcustomer": "851",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43585876",
+    "idcurrency": "1",
+    "idcustomer": "852",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43597753",
+    "idcurrency": "1",
+    "idcustomer": "853",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43603229",
+    "idcurrency": "1",
+    "idcustomer": "854",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43604068",
+    "idcurrency": "1",
+    "idcustomer": "855",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43604347",
+    "idcurrency": "1",
+    "idcustomer": "856",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43605353",
+    "idcurrency": "1",
+    "idcustomer": "857",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43616148",
+    "idcurrency": "1",
+    "idcustomer": "858",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43616510",
+    "idcurrency": "1",
+    "idcustomer": "859",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43628249",
+    "idcurrency": "1",
+    "idcustomer": "860",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43629316",
+    "idcurrency": "1",
+    "idcustomer": "861",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43629940",
+    "idcurrency": "1",
+    "idcustomer": "862",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43630666",
+    "idcurrency": "1",
+    "idcustomer": "863",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43650984",
+    "idcurrency": "1",
+    "idcustomer": "864",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43652530",
+    "idcurrency": "1",
+    "idcustomer": "865",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43662060",
+    "idcurrency": "1",
+    "idcustomer": "866",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43667355",
+    "idcurrency": "1",
+    "idcustomer": "867",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43681663",
+    "idcurrency": "1",
+    "idcustomer": "868",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43703020",
+    "idcurrency": "1",
+    "idcustomer": "869",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43727562",
+    "idcurrency": "1",
+    "idcustomer": "870",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43729854",
+    "idcurrency": "1",
+    "idcustomer": "871",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43732874",
+    "idcurrency": "1",
+    "idcustomer": "872",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43733277",
+    "idcurrency": "1",
+    "idcustomer": "873",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43740844",
+    "idcurrency": "1",
+    "idcustomer": "874",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43744921",
+    "idcurrency": "1",
+    "idcustomer": "875",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43748303",
+    "idcurrency": "1",
+    "idcustomer": "876",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43748716",
+    "idcurrency": "1",
+    "idcustomer": "877",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43749571",
+    "idcurrency": "1",
+    "idcustomer": "878",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43752148",
+    "idcurrency": "1",
+    "idcustomer": "879",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43757458",
+    "idcurrency": "1",
+    "idcustomer": "880",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43759410",
+    "idcurrency": "1",
+    "idcustomer": "881",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43765075",
+    "idcurrency": "1",
+    "idcustomer": "882",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43782143",
+    "idcurrency": "1",
+    "idcustomer": "883",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43800099",
+    "idcurrency": "1",
+    "idcustomer": "884",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43812472",
+    "idcurrency": "1",
+    "idcustomer": "885",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43825259",
+    "idcurrency": "1",
+    "idcustomer": "886",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43835752",
+    "idcurrency": "1",
+    "idcustomer": "887",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43841186",
+    "idcurrency": "1",
+    "idcustomer": "888",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43865361",
+    "idcurrency": "1",
+    "idcustomer": "889",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43865929",
+    "idcurrency": "1",
+    "idcustomer": "890",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43867966",
+    "idcurrency": "1",
+    "idcustomer": "891",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43870767",
+    "idcurrency": "1",
+    "idcustomer": "1176",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43871503",
+    "idcurrency": "1",
+    "idcustomer": "892",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43873103",
+    "idcurrency": "1",
+    "idcustomer": "893",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43909727",
+    "idcurrency": "1",
+    "idcustomer": "894",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43913755",
+    "idcurrency": "1",
+    "idcustomer": "895",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43917981",
+    "idcurrency": "1",
+    "idcustomer": "896",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43919172",
+    "idcurrency": "1",
+    "idcustomer": "897",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43919505",
+    "idcurrency": "1",
+    "idcustomer": "898",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43925240",
+    "idcurrency": "1",
+    "idcustomer": "899",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43970047",
+    "idcurrency": "1",
+    "idcustomer": "900",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43973050",
+    "idcurrency": "1",
+    "idcustomer": "901",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43973130",
+    "idcurrency": "1",
+    "idcustomer": "902",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43976454",
+    "idcurrency": "1",
+    "idcustomer": "903",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43977677",
+    "idcurrency": "1",
+    "idcustomer": "904",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43978799",
+    "idcurrency": "1",
+    "idcustomer": "905",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43984309",
+    "idcurrency": "1",
+    "idcustomer": "906",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43985114",
+    "idcurrency": "1",
+    "idcustomer": "907",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43986713",
+    "idcurrency": "1",
+    "idcustomer": "908",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43986781",
+    "idcurrency": "1",
+    "idcustomer": "909",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43996739",
+    "idcurrency": "1",
+    "idcustomer": "910",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "43997758",
+    "idcurrency": "1",
+    "idcustomer": "911",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "44006659",
+    "idcurrency": "1",
+    "idcustomer": "912",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "44006957",
+    "idcurrency": "1",
+    "idcustomer": "913",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "44154473",
+    "idcurrency": "1",
+    "idcustomer": "914",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "454196303",
+    "idcurrency": "1",
+    "idcustomer": "915",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "45477940",
+    "idcurrency": "1",
+    "idcustomer": "916",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "45480791",
+    "idcurrency": "1",
+    "idcustomer": "917",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "47435629",
+    "idcurrency": "1",
+    "idcustomer": "918",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "47441002",
+    "idcurrency": "1",
+    "idcustomer": "919",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "474931754",
+    "idcurrency": "1",
+    "idcustomer": "920",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "47711081166",
+    "idcurrency": "1",
+    "idcustomer": "921",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "49659021",
+    "idcurrency": "1",
+    "idcustomer": "922",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "49739694",
+    "idcurrency": "1",
+    "idcustomer": "923",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "49761102",
+    "idcurrency": "1",
+    "idcustomer": "924",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50848076",
+    "idcurrency": "1",
+    "idcustomer": "925",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50882216",
+    "idcurrency": "1",
+    "idcustomer": "926",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50893159",
+    "idcurrency": "1",
+    "idcustomer": "927",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50901791",
+    "idcurrency": "1",
+    "idcustomer": "928",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50920517",
+    "idcurrency": "1",
+    "idcustomer": "930",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50931786",
+    "idcurrency": "1",
+    "idcustomer": "931",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50938166",
+    "idcurrency": "1",
+    "idcustomer": "932",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "50956095",
+    "idcurrency": "1",
+    "idcustomer": "933",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51603601",
+    "idcurrency": "1",
+    "idcustomer": "934",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51639909",
+    "idcurrency": "1",
+    "idcustomer": "935",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51704516",
+    "idcurrency": "1",
+    "idcustomer": "936",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51768538",
+    "idcurrency": "1",
+    "idcustomer": "937",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51852991",
+    "idcurrency": "1",
+    "idcustomer": "938",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "51937939",
+    "idcurrency": "1",
+    "idcustomer": "939",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52014803",
+    "idcurrency": "1",
+    "idcustomer": "940",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52093301",
+    "idcurrency": "1",
+    "idcustomer": "941",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52104967",
+    "idcurrency": "1",
+    "idcustomer": "942",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52151798",
+    "idcurrency": "1",
+    "idcustomer": "943",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "5215356",
+    "idcurrency": "1",
+    "idcustomer": "944",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52281548",
+    "idcurrency": "1",
+    "idcustomer": "945",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52455067",
+    "idcurrency": "1",
+    "idcustomer": "946",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52513983",
+    "idcurrency": "1",
+    "idcustomer": "947",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52521387",
+    "idcurrency": "1",
+    "idcustomer": "948",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52535956",
+    "idcurrency": "1",
+    "idcustomer": "949",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52693124",
+    "idcurrency": "1",
+    "idcustomer": "950",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52881329",
+    "idcurrency": "1",
+    "idcustomer": "951",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "52982716",
+    "idcurrency": "1",
+    "idcustomer": "952",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "53053678",
+    "idcurrency": "1",
+    "idcustomer": "953",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "53062067",
+    "idcurrency": "1",
+    "idcustomer": "954",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "53931182",
+    "idcurrency": "1",
+    "idcustomer": "955",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "55165002",
+    "idcurrency": "1",
+    "idcustomer": "956",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60289904",
+    "idcurrency": "1",
+    "idcustomer": "957",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60338698",
+    "idcurrency": "1",
+    "idcustomer": "958",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60385439",
+    "idcurrency": "1",
+    "idcustomer": "959",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60387483",
+    "idcurrency": "1",
+    "idcustomer": "960",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60390196",
+    "idcurrency": "1",
+    "idcustomer": "961",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "60397460",
+    "idcurrency": "1",
+    "idcustomer": "962",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63279354",
+    "idcurrency": "1",
+    "idcustomer": "963",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63296093",
+    "idcurrency": "1",
+    "idcustomer": "964",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63296831",
+    "idcurrency": "1",
+    "idcustomer": "965",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63306861",
+    "idcurrency": "1",
+    "idcustomer": "966",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63355951",
+    "idcurrency": "1",
+    "idcustomer": "967",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63478249",
+    "idcurrency": "1",
+    "idcustomer": "968",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63488238",
+    "idcurrency": "1",
+    "idcustomer": "969",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63490866",
+    "idcurrency": "1",
+    "idcustomer": "970",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63499467",
+    "idcurrency": "1",
+    "idcustomer": "971",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63544584",
+    "idcurrency": "1",
+    "idcustomer": "972",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "63549972",
+    "idcurrency": "1",
+    "idcustomer": "973",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "64696970",
+    "idcurrency": "1",
+    "idcustomer": "974",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65735067",
+    "idcurrency": "1",
+    "idcustomer": "975",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65737739",
+    "idcurrency": "1",
+    "idcustomer": "976",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65748163",
+    "idcurrency": "1",
+    "idcustomer": "977",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65753439",
+    "idcurrency": "1",
+    "idcustomer": "978",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65754002",
+    "idcurrency": "1",
+    "idcustomer": "979",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65765363",
+    "idcurrency": "1",
+    "idcustomer": "980",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65769658",
+    "idcurrency": "1",
+    "idcustomer": "981",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "65793462",
+    "idcurrency": "1",
+    "idcustomer": "982",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "66732279",
+    "idcurrency": "1",
+    "idcustomer": "983",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "66827424",
+    "idcurrency": "1",
+    "idcustomer": "984",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "66835398",
+    "idcurrency": "1",
+    "idcustomer": "985",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "66924437",
+    "idcurrency": "1",
+    "idcustomer": "986",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "66982215",
+    "idcurrency": "1",
+    "idcustomer": "987",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "67001640",
+    "idcurrency": "1",
+    "idcustomer": "988",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "67028793",
+    "idcurrency": "1",
+    "idcustomer": "989",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "67039568",
+    "idcurrency": "1",
+    "idcustomer": "990",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "68285786",
+    "idcurrency": "1",
+    "idcustomer": "991",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "69005220",
+    "idcurrency": "1",
+    "idcustomer": "992",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "700007849",
+    "idcurrency": "1",
+    "idcustomer": "993",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "700164743",
+    "idcurrency": "1",
+    "idcustomer": "994",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "70160654",
+    "idcurrency": "1",
+    "idcustomer": "995",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "70165125",
+    "idcurrency": "1",
+    "idcustomer": "996",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71116222",
+    "idcurrency": "1",
+    "idcustomer": "997",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71265212",
+    "idcurrency": "1",
+    "idcustomer": "998",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71276912",
+    "idcurrency": "1",
+    "idcustomer": "999",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71278363",
+    "idcurrency": "1",
+    "idcustomer": "1000",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71367072",
+    "idcurrency": "1",
+    "idcustomer": "1001",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71383542",
+    "idcurrency": "1",
+    "idcustomer": "1002",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71393461",
+    "idcurrency": "1",
+    "idcustomer": "1003",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "7142075",
+    "idcurrency": "1",
+    "idcustomer": "1004",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71597717",
+    "idcurrency": "1",
+    "idcustomer": "1005",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71647746",
+    "idcurrency": "1",
+    "idcustomer": "1006",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71683094",
+    "idcurrency": "1",
+    "idcustomer": "1007",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71787291",
+    "idcurrency": "1",
+    "idcustomer": "1008",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "71794126",
+    "idcurrency": "1",
+    "idcustomer": "1009",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "72203468",
+    "idcurrency": "1",
+    "idcustomer": "1010",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "72270252",
+    "idcurrency": "1",
+    "idcustomer": "1011",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "7330701",
+    "idcurrency": "1",
+    "idcustomer": "1012",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "7555748",
+    "idcurrency": "1",
+    "idcustomer": "1013",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "76471131-9",
+    "idcurrency": "1",
+    "idcustomer": "1014",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "78292980",
+    "idcurrency": "1",
+    "idcustomer": "1015",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "78693013",
+    "idcurrency": "1",
+    "idcustomer": "1016",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "79513693",
+    "idcurrency": "1",
+    "idcustomer": "1017",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "79781122",
+    "idcurrency": "1",
+    "idcustomer": "1018",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800074405",
+    "idcurrency": "1",
+    "idcustomer": "1019",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800088662",
+    "idcurrency": "1",
+    "idcustomer": "1020",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800094190",
+    "idcurrency": "1",
+    "idcustomer": "1021",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800097373",
+    "idcurrency": "1",
+    "idcustomer": "1022",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800194297",
+    "idcurrency": "1",
+    "idcustomer": "1023",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "800209423",
+    "idcurrency": "1",
+    "idcustomer": "1024",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "80092937",
+    "idcurrency": "1",
+    "idcustomer": "1025",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "80189713",
+    "idcurrency": "1",
+    "idcustomer": "1026",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "802011428",
+    "idcurrency": "1",
+    "idcustomer": "1177",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "80280524",
+    "idcurrency": "1",
+    "idcustomer": "1027",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "80399100",
+    "idcurrency": "1",
+    "idcustomer": "1028",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "80544223",
+    "idcurrency": "1",
+    "idcustomer": "1029",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "811013354",
+    "idcurrency": "1",
+    "idcustomer": "1030",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "811014634",
+    "idcurrency": "1",
+    "idcustomer": "1031",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "811023992",
+    "idcurrency": "1",
+    "idcustomer": "1032",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "811035135",
+    "idcurrency": "1",
+    "idcustomer": "1033",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "811037630",
+    "idcurrency": "1",
+    "idcustomer": "1034",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "812005220",
+    "idcurrency": "1",
+    "idcustomer": "1035",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "8127675",
+    "idcurrency": "1",
+    "idcustomer": "1036",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "8162540",
+    "idcurrency": "1",
+    "idcustomer": "1037",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "823004439",
+    "idcurrency": "1",
+    "idcustomer": "1038",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "830014312",
+    "idcurrency": "1",
+    "idcustomer": "1039",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "830081573",
+    "idcurrency": "1",
+    "idcustomer": "1040",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "830122853",
+    "idcurrency": "1",
+    "idcustomer": "1041",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "830505249",
+    "idcurrency": "1",
+    "idcustomer": "1042",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "8408551",
+    "idcurrency": "1",
+    "idcustomer": "1043",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "8438128",
+    "idcurrency": "1",
+    "idcustomer": "1044",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "860509265",
+    "idcurrency": "1",
+    "idcustomer": "1045",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "88259825",
+    "idcurrency": "1",
+    "idcustomer": "1046",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "8-845-1825",
+    "idcurrency": "1",
+    "idcustomer": "1047",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890304099",
+    "idcurrency": "1",
+    "idcustomer": "1048",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890704754",
+    "idcurrency": "1",
+    "idcustomer": "1049",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890901218",
+    "idcurrency": "1",
+    "idcustomer": "1050",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890903407",
+    "idcurrency": "1",
+    "idcustomer": "1051",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890905709",
+    "idcurrency": "1",
+    "idcustomer": "1052",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890908884",
+    "idcurrency": "1",
+    "idcustomer": "1053",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "890909297",
+    "idcurrency": "1",
+    "idcustomer": "1054",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "892201291",
+    "idcurrency": "1",
+    "idcustomer": "1055",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900009107",
+    "idcurrency": "1",
+    "idcustomer": "1056",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900022013",
+    "idcurrency": "1",
+    "idcustomer": "1057",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "9000469230",
+    "idcurrency": "1",
+    "idcustomer": "1058",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900052339",
+    "idcurrency": "1",
+    "idcustomer": "1059",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900091175",
+    "idcurrency": "1",
+    "idcustomer": "1060",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900092422",
+    "idcurrency": "1",
+    "idcustomer": "1061",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900092556",
+    "idcurrency": "1",
+    "idcustomer": "1062",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900200536",
+    "idcurrency": "1",
+    "idcustomer": "1063",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900205027",
+    "idcurrency": "1",
+    "idcustomer": "1064",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900210363",
+    "idcurrency": "1",
+    "idcustomer": "1065",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900215395",
+    "idcurrency": "1",
+    "idcustomer": "1066",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900229509",
+    "idcurrency": "1",
+    "idcustomer": "1067",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900260257",
+    "idcurrency": "1",
+    "idcustomer": "1068",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900266824",
+    "idcurrency": "1",
+    "idcustomer": "1069",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900269068",
+    "idcurrency": "1",
+    "idcustomer": "1070",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900272990",
+    "idcurrency": "1",
+    "idcustomer": "1071",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900283810",
+    "idcurrency": "1",
+    "idcustomer": "1072",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900292572",
+    "idcurrency": "1",
+    "idcustomer": "1073",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900295276",
+    "idcurrency": "1",
+    "idcustomer": "1074",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900320864",
+    "idcurrency": "1",
+    "idcustomer": "1075",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900323176",
+    "idcurrency": "1",
+    "idcustomer": "1076",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900332236",
+    "idcurrency": "1",
+    "idcustomer": "1077",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900335092",
+    "idcurrency": "1",
+    "idcustomer": "1078",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900343822",
+    "idcurrency": "1",
+    "idcustomer": "1079",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900345232",
+    "idcurrency": "1",
+    "idcustomer": "1080",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900346614",
+    "idcurrency": "1",
+    "idcustomer": "1081",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900359738",
+    "idcurrency": "1",
+    "idcustomer": "1082",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900369030",
+    "idcurrency": "1",
+    "idcustomer": "1083",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900382598",
+    "idcurrency": "1",
+    "idcustomer": "1084",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900394050",
+    "idcurrency": "1",
+    "idcustomer": "1085",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900410633",
+    "idcurrency": "1",
+    "idcustomer": "1086",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900423212",
+    "idcurrency": "1",
+    "idcustomer": "1087",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900423625",
+    "idcurrency": "1",
+    "idcustomer": "1088",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900448252",
+    "idcurrency": "1",
+    "idcustomer": "1663",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900459647",
+    "idcurrency": "1",
+    "idcustomer": "1089",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900469230",
+    "idcurrency": "1",
+    "idcustomer": "1090",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900478765",
+    "idcurrency": "1",
+    "idcustomer": "1091",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900479727",
+    "idcurrency": "1",
+    "idcustomer": "1092",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900495638",
+    "idcurrency": "1",
+    "idcustomer": "1093",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900499362",
+    "idcurrency": "1",
+    "idcustomer": "1094",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900503122",
+    "idcurrency": "1",
+    "idcustomer": "1178",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900524279",
+    "idcurrency": "1",
+    "idcustomer": "1095",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900526822",
+    "idcurrency": "1",
+    "idcustomer": "1096",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900536650",
+    "idcurrency": "1",
+    "idcustomer": "1097",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900538372",
+    "idcurrency": "1",
+    "idcustomer": "1098",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900543958",
+    "idcurrency": "1",
+    "idcustomer": "1099",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900548819",
+    "idcurrency": "1",
+    "idcustomer": "1100",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900554179",
+    "idcurrency": "1",
+    "idcustomer": "1101",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900554666",
+    "idcurrency": "1",
+    "idcustomer": "1102",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900568353",
+    "idcurrency": "1",
+    "idcustomer": "1103",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900589700",
+    "idcurrency": "1",
+    "idcustomer": "1104",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900606307",
+    "idcurrency": "1",
+    "idcustomer": "1105",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900612679",
+    "idcurrency": "1",
+    "idcustomer": "1106",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900620846",
+    "idcurrency": "1",
+    "idcustomer": "1107",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900630244",
+    "idcurrency": "1",
+    "idcustomer": "1108",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900635184",
+    "idcurrency": "1",
+    "idcustomer": "1109",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900659407",
+    "idcurrency": "1",
+    "idcustomer": "1110",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900662158",
+    "idcurrency": "1",
+    "idcustomer": "1111",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900690157",
+    "idcurrency": "1",
+    "idcustomer": "1112",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900691051",
+    "idcurrency": "1",
+    "idcustomer": "1113",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900722969",
+    "idcurrency": "1",
+    "idcustomer": "1114",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900744408",
+    "idcurrency": "1",
+    "idcustomer": "1115",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900771677",
+    "idcurrency": "1",
+    "idcustomer": "1116",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900814186",
+    "idcurrency": "1",
+    "idcustomer": "1117",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900843444",
+    "idcurrency": "1",
+    "idcustomer": "1118",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900846243",
+    "idcurrency": "1",
+    "idcustomer": "1119",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900851487",
+    "idcurrency": "1",
+    "idcustomer": "1120",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900879008",
+    "idcurrency": "1",
+    "idcustomer": "1121",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900885059",
+    "idcurrency": "1",
+    "idcustomer": "1122",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900918547",
+    "idcurrency": "1",
+    "idcustomer": "1123",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900929569",
+    "idcurrency": "1",
+    "idcustomer": "1124",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "900946039",
+    "idcurrency": "1",
+    "idcustomer": "1125",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "901000099",
+    "idcurrency": "1",
+    "idcustomer": "1126",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "901007900",
+    "idcurrency": "1",
+    "idcustomer": "1664",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "901019918",
+    "idcurrency": "1",
+    "idcustomer": "1665",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "91042394",
+    "idcurrency": "1",
+    "idcustomer": "1127",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "91214721",
+    "idcurrency": "1",
+    "idcustomer": "1128",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "91282226",
+    "idcurrency": "1",
+    "idcustomer": "1129",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "93235604",
+    "idcurrency": "1",
+    "idcustomer": "1130",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "94375053",
+    "idcurrency": "1",
+    "idcustomer": "1131",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "9466662",
+    "idcurrency": "1",
+    "idcustomer": "1132",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "98544583",
+    "idcurrency": "1",
+    "idcustomer": "1133",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "98574719",
+    "idcurrency": "1",
+    "idcustomer": "1134",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "9871697",
+    "idcurrency": "1",
+    "idcustomer": "1135",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "DLI931201MI9",
+    "idcurrency": "1",
+    "idcustomer": "1136",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "DNI09343601",
+    "idcurrency": "1",
+    "idcustomer": "1137",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "E377217",
+    "idcurrency": "1",
+    "idcustomer": "1138",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "E-405214",
+    "idcurrency": "1",
+    "idcustomer": "1139",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "E857398",
+    "idcurrency": "1",
+    "idcustomer": "1140",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "J29518555-3",
+    "idcurrency": "1",
+    "idcustomer": "1141",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "NY5H85RJ2",
+    "idcurrency": "1",
+    "idcustomer": "1142",
+    "descriptioncurrency": "COP"
+  },
+  {
+    "AccountNum": "PHI830429M66",
+    "idcurrency": "1",
+    "idcustomer": "1143",
+    "descriptioncurrency": "COP"
+  }
+]

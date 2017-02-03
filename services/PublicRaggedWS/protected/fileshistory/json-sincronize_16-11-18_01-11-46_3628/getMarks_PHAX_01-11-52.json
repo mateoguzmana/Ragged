@@ -1,0 +1,32 @@
+[
+  {
+    "DataAreaId": "2",
+    "Num": "100",
+    "Description": "PHAX",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "2",
+    "Num": "105",
+    "Description": "MARIA BONITA",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "2",
+    "Num": "110",
+    "Description": "SUNMIX",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "2",
+    "Num": "115",
+    "Description": "GIRLS",
+    "DimensionCode": "Centro de coste"
+  },
+  {
+    "DataAreaId": "2",
+    "Num": "120",
+    "Description": "MARCA PROPIA",
+    "DimensionCode": "Centro de coste"
+  }
+]

@@ -1,0 +1,774 @@
+[
+  {
+    "DataAreaId": "2",
+    "InventSizeId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "REF"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "0.3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "001"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "01M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "02M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "03M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "04M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "05C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "05M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "06C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "06M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "07C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "07M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "07MM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "08C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "08M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "09C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "09M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.8"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1.8"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "10"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "100"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "10-12"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "10C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "10M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "11C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "12"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "12-18"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "12C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "12M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "13C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "14"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "14C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "14L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "15C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "15CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "15L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "15M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "16"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "16L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "17L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "18"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "18-24"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "18C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "18L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "19M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "1CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.1"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.7"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.1"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.2"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.6"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2.8"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "20C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "20L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "22L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2-3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "24"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "24L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "24M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "26L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "27L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "28"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "28L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "29"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "2C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.2"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.2"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.3"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3.7"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "30"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "30C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "30L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "31"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "310"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "314"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "31L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "32"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "32C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "32L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "33"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "330"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "331"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "34"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "34C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "35"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "36"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3-6"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "36C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "36L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "37"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "38"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "38C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "39"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "3CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4.2"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "40"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "401"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "40C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "41"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "413"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "415"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "42"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "42C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "44"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "44L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4-5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "45C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "48L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "4CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "5.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "5.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "5.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "508"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "510"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "55C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6.5"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "60C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "610"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6-12"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "630"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "64"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "651"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "655"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "656"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "665"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "66C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "6-8"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "687"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "688"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "68C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "690"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "69C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "7"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "7.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "70C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "71C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "720"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "72C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "74C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "78C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "7CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "8"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "8.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "821"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "8C"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "8CM"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "9"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "9.0"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C26"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C28"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C30"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C32"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C34"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C36"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C38"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "C40"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "ILA"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "L"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "M"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "S"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "S Disponib"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "S Recibido"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "U"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "XL"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "XS"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "XXL"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "XXS"
+  },
+  {
+    "DataAreaId": "2",
+    "InventSizeId": "XXXL"
+  }
+]

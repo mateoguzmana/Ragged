@@ -1,0 +1,102 @@
+[
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787431127",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "448",
+    "InventColorId": "359",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787758279",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "446",
+    "InventColorId": "359",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787758286",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "447",
+    "InventColorId": "359",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787758293",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "452",
+    "InventColorId": "359",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787758309",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "453",
+    "InventColorId": "359",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787979148",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "446",
+    "InventColorId": "561",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787979155",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "447",
+    "InventColorId": "561",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787979162",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "448",
+    "InventColorId": "561",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787979179",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "452",
+    "InventColorId": "561",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "10",
+    "Referencecode": "10913",
+    "ItemBarcode": "7704787979186",
+    "InvoiceCode": "9260574",
+    "InventSizeId": "453",
+    "InventColorId": "561",
+    "ConfigId": ""
+  }
+]

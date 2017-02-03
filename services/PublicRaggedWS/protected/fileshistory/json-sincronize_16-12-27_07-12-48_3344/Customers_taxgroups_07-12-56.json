@@ -1,0 +1,22 @@
+[
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-GRAL"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-RCRETE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "PRO-GCRETE"
+  },
+  {
+    "IdTaxGroup": null,
+    "IdCompany": "1",
+    "DescriptionTaxGroup": "CLI-RCBACE"
+  }
+]

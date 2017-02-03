@@ -1,0 +1,52 @@
+[
+  {
+    "DataAreaId": "2",
+    "ItemId": "5",
+    "Referencecode": "11059",
+    "ItemBarcode": "7704787578389",
+    "InvoiceCode": "9261052",
+    "InventSizeId": "446",
+    "InventColorId": "470",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "5",
+    "Referencecode": "11059",
+    "ItemBarcode": "7704787831637",
+    "InvoiceCode": "9261052",
+    "InventSizeId": "447",
+    "InventColorId": "470",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "5",
+    "Referencecode": "11059",
+    "ItemBarcode": "7704787831644",
+    "InvoiceCode": "9261052",
+    "InventSizeId": "448",
+    "InventColorId": "470",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "5",
+    "Referencecode": "11059",
+    "ItemBarcode": "7704787831651",
+    "InvoiceCode": "9261052",
+    "InventSizeId": "452",
+    "InventColorId": "470",
+    "ConfigId": ""
+  },
+  {
+    "DataAreaId": "2",
+    "ItemId": "5",
+    "Referencecode": "11059",
+    "ItemBarcode": "7704787831668",
+    "InvoiceCode": "9261052",
+    "InventSizeId": "453",
+    "InventColorId": "470",
+    "ConfigId": ""
+  }
+]
